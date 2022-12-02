@@ -1,0 +1,919 @@
+title,company_name,location,description,extensions,job_id,work_from_home,python,sql,excel,power_bi,tableau,date
+Data Analyst,Capchase,"Madrid, Spain","at jumio, you will work for the market leader in online identity verification that is helping to make the digital world a safer place for everyone. as a data analyst, you will closely work with the teams responsible for the machine learning components at the heart of our products. you will own the delivery of data analyses that inform the optimization of the performance of our products as well as the delivery of reports and dashboards to track performance metrics and proactively identify improvements.
+
+role value:as a data analyst, you power data-driven decision making by providing thorough data analyses and by building reports and dashboards.
+
+example responsibilities:• liaising with product owners and engineering squads to collect and model requirements.
+• managing our internal customer success lifecycle.
+• translate requirements to sql code.
+• design and build dashboards to track key performance indicators
+• designing reports, graphs, and other suitable material to convincingly... present your findings to engineers and product managers
+• providing data analyses and trend modelling to optimise our products
+
+• supporting and monitoring production pipelines on our data stores (sql server, biqquery).
+• maintain our internal system’s notifications (looker, bq)
+• make sure all the reports, and dashboards, are consumption ready for engineers and product managers.
+• support data stewardship and access management.
+• maintaining up-to-date documentation for all the environments on confluence or other metadata repositories.
+
+minimal experience and qualifications: • ci/cd and code quality management for data analytics modules.
+• experience in data quality monitoring and understanding of how to troubleshoot data discrepancies.
+• industry experience in data visualisation techniques and statistical analysis.
+• experience with bi and data visualisation tools.
+• experience in stakeholder management and agile delivery.
+• experience with python, pandas and other data analytics libraries in python or r.
+• sql proficiency
+
+preferred experience and qualifications: • understands core concepts of data science/ml.
+• general database administration knowledge.
+• experience with python for devops and shell scripting.
+
+key characteristics and attitudes:in a recent global survey these attributes were valued by jumios in all locations and functions - we firmly believe in hiring for attitude as well as skill.
+
+• friendly and supportive
+• team player
+• adaptable and flexible
+• articulate and persuasive
+• high iq and eq
+• curious and coachable
+• commercially aware
+• resilient and tenacious
+• big picture and the detail
+
+@work:jumio ai labs in montreal is one of three r&d centres at jumio, alongside vienna, austria and bangalore, india. located in downtown montreal, we focus on r&d in computer vision as well as general machine learning. we deliver components that power jumio’s market leading products. jumio montreal is a diverse team of engineers from a variety of countries that all enjoy collaboration, knowledge sharing, being curious and driving advancements in machine learning and id verification. our montreal office is also a cultural hub where we celebrate unity in diversity through team-building activities and highlight every cultural event happening around the world.
+
+jumio values:
+
+ideal: integrity, diversity, empowerment, accountability, leading innovation
+
+equal opportunities:
+
+jumio is a collaboration of people with different ideas, strengths, interests and cultures. we welcome applications and colleagues from all backgrounds and of all statuses.
+
+about jumio:
+
+jumio is a b2b technology company dedicated to eradicating online identity fraud, money laundering and other financial crimes to help make the internet safer. we leverage ai, biometrics, machine learning, liveness detection and automation to create solutions that are trusted by leading brands worldwide and respected by industry thought leaders.
+
+jumio is the leading provider of online identity verification, ekyc and aml solutions. with a global footprint, we’re expanding the team to meet strong client demand across a range of industries including financial services, travel, sharing economy, fintech, gaming, and others.
+
+applicant data privacy
+
+we will only use your personal information in connection with jumio’s application, recruitment, and hiring processes, as described in jumio’s applicant privacy notice. if you have any questions or comments, please send an email to privacy@jumio.com","['Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImpwTHBUMHVkM0h3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVRjBWbXhpUTJ0S1N6bDBYMWhwY2xoNU0ybzRWak5MVkhZdGFsWkxUMWxSWTJ0SmIwTnlWRGRrV25JeVdrTjRlVkY0TTBkYVVtSnhWMGw2UXpOd1JrUlFZbFZzWjFKRmNGVllXRWQ1ZW1sd1UycHBNelpJVFdaME9UQkdXVVUyVm1WYVVGSlVNV05rU1RZM05Fa3dZWEpEY2tGd1JIaHNZamh6WkdKTFMxaFJUWE54T1U1aGVqUktZMVJ3V25SRGFYVTVOMHhqWDNVeVowdFpVRmx3YTFKM0VoZFJaR2xJV1RaRGNFZzBjWEJ4ZEhOUU1FOXhaamhCY3hvaVFVUlZlVVZIWmtWMk1Vb3hYM0JuV1V0eFREVnJhazl1T1RWWVFtUm1lRFV6WnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExldmVyIiwibGluayI6Imh0dHBzOi8vam9icy5sZXZlci5jby9jYXBjaGFzZS8yMDgyMGEwYy1kNTBjLTQzMmMtOTE2NS1kNzNiODI3NjdlODI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,1.0,1.0,0.0,0.0,0.0,2022-11-30
+People Data Analyst,Cabify,"Madrid, Spain","about the role:
+
+voldex is seeking a data analyst to join our team. in this role, you will collect, interpret, and visualize data that informs decision making across numerous teams and product groups. data analysts at voldex regularly partner with multiple disciplines (design, product management, marketing, and more) to iterate on in-game features and monetization tactics.
+
+if you’re interested in delivering that kind of impact at a quickly-growing, well-funded start-up, we’d love for you to apply!
+
+what you’ll do:
+• analyze billions (!!!) of rows of data related to roblox players and provide data-driven recommendations to address strategic and operational business questions
+• build automated dashboards and reports to facilitate company-wide awareness and understanding of key business metrics and player’s experience
+• manage and monitor a/b tests - from designing the test to analyzing and presenting the results to closing of the test
+• coordinate and share insights with internal... departments (game designers, m&m, etc.) to achieve the common goal of improving the game and maximizing revenue and retention
+• manage and prioritize multiple projects at a time in a fast-paced, results-oriented environment
+• transform data from a raw, unstructured state into a clean and structured dataset (we use dbt)
+
+what you bring to the team:
+• at least two (2) years of experience in business/data analytics: experience working in the games industry would be an asset
+• demonstrated proficiency with data visualization tools: we use tableau, but others are welcome
+• some experience in working with cloud data warehouses: we use snowflake, but others are welcome
+• advanced sql skills
+• extensive knowledge of excel
+
+bonus points for:
+• knowledge in python
+• knowledge of dbt
+
+what we offer you:
+
+💰competitive salary
+
+⛳️ retirement benefits - depending on the country, there's company contribution!
+
+🩺 medical, dental, and vision benefits - depending on the country, there's additional benefits (life, add, eap)
+
+🏖 20 days of pto + federal / bank holidays
+
+⏱ flexible working hours
+
+🌎 100% remote; we have always been remote and will remain that way
+
+🎮 in person get togethers, virtual company-wide game nights, robux and so much more!
+
+🎉 work with awesome people and impact millions of daily players",['Full-time'],eyJqb2JfdGl0bGUiOiJQZW9wbGUgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJrWnpKVU9vNkYza0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlEyOXRiWFZ1YVhSNUlHOW1JRTFoWkhKcFpDeFRjR0ZwYmciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVFVdHdRVkZCV0ZZMGF6VnBWREEwVVZWVVRGcDVVRFJRTkhoMVdXMTZiVEY2U1VWSFRYTk5hbXg1TFRGSFowcDFaSEZQWDJ4MmFUYzRRVXhLTjBONGJFRlBkRTV4Y0hkU05sZDBXREpQV0ZobWNHbFBhMDFFV0c1aGMzRnZaR0pvWW5FNVgzZE9aRU51VEU1MVFrNHlXbWd4WW5OdVEwNXdRbXg0Y2xoVlF5MDNPRUk1Vm5GMVVYTmxkRk15WVMxUFJFeGxZblYzU0hWUmJHUjBUMXBRTTJsVFptdFJOVTk0VkhKYVUxUkJUbmRqRWhkUlpHbElXVFpEY0VnMGNYQnhkSE5RTUU5eFpqaEJjeG9pUVVSVmVVVkhaSEExT1dWdmJuRmZSRmhqTVcxV01UazVTVTFsTWpsbllrazJRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzIiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gR3JlZW5ob3VzZSIsImxpbmsiOiJodHRwczovL2JvYXJkcy5ncmVlbmhvdXNlLmlvL2NhYmlmeS9qb2JzLzYzMjQyMDkwMDI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,1.0,1.0,1.0,0.0,1.0,2022-11-30
+Data Analyst,Publicis Groupe,"Madrid, Spain","transit data is the lifeblood of transit: everything else depends on it. when our data team does do a good job, life is serene like a tuscany sunset. users just open the app, and everything miraculously works! little do they know how many disparate datasets we have to wrangle, how many transit agency websites we have to monitor, how many sadistic bugs are out there waiting to pounce, how truly complex the “simplicity” of transit’s app belies... there’s never a dull moment when disruptions, strikes, last-minute network changes, and other mystery forces join together to threaten our users’ with a missed bus or train.
+
+but not on your watch!
+
+as our newest transit data analyst, you’ll be as busy as a bullet train, crawling openstreetmap, wikipedia, twitter, and other sources for the latest transit agency news (even if it’s not yet reflected in official data feeds), patching together data feeds where official ones don’t exist (like the location of station entrances or accessible transit... stops), and helping improve our automated tools — ones which minimize the number of bad etas, and ensure the reliability of transit’s data.
+
+your familiarity with public transit networks and your unflappable resourcefulness will keep us one step ahead of all the other apps out there: helping us map transit networks that everyone else thought were too tricky, broadening the types of data that our users have access to (like real-time vehicle crowding), and making sure that every transit user gets to experience that magical feeling of “wow, it just works?” no matter their city, no matter the weirdness of the underlying data sources.
+
+if you’re cunning, curious, and excited to make public transit more reliable for millions of riders across 200+ cities? give us a holler!
+
+📝 responsibilities
+• develop a deep understanding of public transit networks in cities around the world to better serve transit’s riders
+• differentiate between transit services: modes, rolling stocks, infrastructures, operation patterns, etc.
+• use our existing tools (and improve upon them!) so we can deliver higher quality transit data in all our supported cities
+• make transit feel like “home” no matter the system: you’ll have to overcome geographical and linguistic barriers to add support for new cities and countries, taking into account the specific quirks of every local transit network
+• work with our data team and propose improvements to our existing data management tools when you see the chance — what processes can we automate? what can be done more efficiently? where can we find better data?
+• help us build out new features: ones that make better use of existing data, and ones that rely on entirely new data sources (how exciting…)
+
+✅ requirements
+• you are a fan of public transit and you are familiar with transit terminology: terminus, partial service, branch, headsign, etc.
+• extremely detail oriented. your attentiveness makes all the difference: it allows transit’s riders to relax, knowing they can always expect a reliable commuting experience. our users depend on you!
+• be curious, be nimble, think outside the boxcar. when you encounter an obstacle, your reaction shouldn’t be “oh well” — it should be “how can i overcome this like the crafty little minx i am?” keep in mind, you’ll be handling data and documentation in unknown languages, often without any kind of faq…
+• satisfactory written communication skills in english (and, ideally, french) so you can be the liaison between our users and transit authorities. you won't be handling tech support, but you may send emails to users and agencies when there are data quality issues.
+• no programming skills required!
+
+sound like your jam? read the full description here:
+
+https://transitapp.com/jobs/transit-analyst
+
+...then send us an email ;)
+
+transit focuses on mobile and public transportation. their company has offices in montreal. they have a mid-size team that's between 51-200 employees. to date, transit has raised $25.425m of funding; their latest round was closed on november 2018.
+
+you can view their website at http://transitapp.com or find them on twitter and facebook",['Full-time'],eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IlBLZ3RoZzFubUR3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUVZwTGFsVnFUa2hNYnpGWE9XUkdhVzVxYld0NkxVRjBVRFY0WDNSVVpVRnNTWFZwY2pnelZrSmFOME5XUmxGS1dWZHNPVTlXZDNwWVVHVTJlbk5MVjJsSllrWkNWMUZSYWpWd1p6aHJSbXhTVTA5SFdWSnpiVFZLU1hka1dVRnlaWFp1YUhwVVNEUnpMV1F3VkdWc1puaE1SbVk0ZVZSSlgxUTBSemRqU1RCdlgzRmtiRmRxVEZGMFdteE5WRmhYVDE5b1MwRldlV3hDVEcxeE9EQTRVSGQ1UVVkNGVsWmhhWGRqUlhoNGJXRXdFaGRSWkdsSVdUWkRjRWcwY1hCeGRITlFNRTl4WmpoQmN4b2lRVVJWZVVWSFpuWjZPVUpwWkcwdFZrVTROMGRVZVhGelprVlZPWEZMTkhSUWR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTbWFydFJlY3J1aXRlcnMgSm9iIFNlYXJjaCIsImxpbmsiOiJodHRwczovL2pvYnMuc21hcnRyZWNydWl0ZXJzLmNvbS9wdWJsaWNpc2dyb3VwZS83NDM5OTk4NTg4ODM3OTEtZGF0YS1hbmFseXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,Hitachi Careers,"Madrid, Spain","company description
+
+are you cut out for kenny u-pull?
+
+get ready for an immersion in the automotive world. at kenny u-pull, we give vehicles a second life by offering our customers the opportunity to pick up their replacement parts themselves for a fraction of the manufacturer's price, in a safe, clean and environmentally responsible environment.
+
+join our team and become our customers' ally in providing the best service!
+
+job description
+
+as a data analyst, you will contribute to the development of tools and methods to collect, compile and model transactional data. you will be part of a team whose mandate is to support the development of the organization's business intelligence skills. these skills will then help decision makers in their decision making. more specifically, your role will be to:
+• analyze and provide opinions based on existing information;
+• develop recommendations and implementation plans;
+• diagnose data related issues;
+• provide support to users and help them... interpret the data;
+• develop new data-related knowledge;
+• design reports and dashboards to meet business needs;
+• work closely with various technology teams.
+
+qualifications
+• bachelor’s degree in business, engineering, computer science, supply chain management, statistics, mathematics or related field;
+• a minimum of two years of relevant experience;
+• strong interest in data analytics, data transformation and problem-solving;
+• experience in business intelligence and data management;
+• advanced knowledge of microsoft excel (pivot tables);
+• experience with cubes, data analysis tool, hypothesis testing, linear regression, qualitative and quantitative forecasting methods.
+• knowledge of excel (advanced), sql, entity-relationship diagrams and dimensional data models;
+• knowledge of visualization tools such as cognos or power bi (an asset);
+• knowledge of vba, r, or python (an asset));
+• facility with databases management;
+• knowledge of the operation and supply chain;
+• bilingualism (english, french, spoken and written)
+
+additional information
+• hybrid model, 3 days at our office in laval, 2 days remotely
+• group insurance: life, disability + medical, dental, eye care and more!
+• group rrsp with employer contribution!
+• career development opportunities","['15 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InZMUFJKMnhyZTBBQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUkZRemJFNWpZVlJ5U2xBNFNTMUZSSGQ0ZDJKUlQxRTRha0pJUW1FeFMzRnlRVFI2YzBKa1NYbDBNbnBoV20xRFZVbGlTMVJwWjNSMFZqYzJOa2hJVG5acFdDMVBYMUpYTms1RVRFcDVlQzFoVERkU1dFTnZTVEJmWWxSQmQxQkRXWGsyUW5SZmMwaHFaMmRZVEVkV1prbFlWVTVPTUdVMWRteGtZa1JFZFdRdE4zUktOSEpTVTNoaFVVbDBlSGQwVFZCNWNHMVNNWE5SZGpWQmJXNVRSSFJwV25ReWNUVTJkbFJzVVRKMlVEaFJFaGRSWkdsSVdUWkRjRWcwY1hCeGRITlFNRTl4WmpoQmN4b2lRVVJWZVVWSFpHcFBWWFF4UkdVdFIyb3ROak14TnpoaVJXVjNkRmg0T1VkVlp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBIaXRhY2hpIC0gQ2FyZWVycyIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuaGl0YWNoaS5jb20vam9icy8xMTExMDQ2NC1kYXRhLWFuYWx5c3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,1.0,0.0,1.0,1.0,0.0,2022-11-30
+Data Analyst,Scalefast,"Madrid, Spain","company description
+
+ssense (pronounced [es-uhns]) is a global technology platform operating at the intersection of culture, community, and commerce. headquartered in montreal, it features a mix of established and emerging luxury brands across womenswear, menswear, kidswear, and everything else.
+
+ssense has garnered critical acclaim as both an e-commerce engine and a producer of cultural content, generating an average of 100 million monthly page views. approximately 80% of its audience is between the ages of 18 to 40. it is privately held and has achieved high double digit annual growth and profitability since its inception.
+
+job description
+
+reporting to the manager, analytics & insights, the senior data analyst, analytics & insights plays a key role in developing and solidifying the analytics capabilities at ssense. as part of the data platform and analytics center of excellence, they will join a community of talented analysts, product managers, data scientists, and architects to... empower ssense to make evidence-based decisions.
+
+partnering with product teams and other business and analytical functions, they are responsible for supporting the growth of the testing and experimentation strategy, developing easy-to-digest insights and recommendations, and building data tools and dashboards that influence product development priorities.
+
+the senior data analyst will act as a subject matter expert within their domain of responsibility while helping the manager, analytics & insights mentoring the members of the team the ideal candidate will possess a balance of analytical, technical and communication skills and is relentlessly curious about optimizing the customer experience.
+
+responsibilities:
+
+analysis and data visualization - 50%
+• leverage data analysis techniques to identify actionable business opportunities and drive them into action.
+• collaborate with the product teams on features and other data teams team on data products (e.g., recommendation/sorting algorithms, aggregation layer)
+• build lasting solutions (e.g. dashboards) to facilitate access to data and insights
+• socialize and share easy-to-understand data visualization and insights with technical and non-technical audiences, including product, growth, buying, and customer experience.
+• develop metrics and analytical frameworks that uplift the team’s analytical capabilities.
+• represent the best practices of the center of excellence to stakeholders across the organization
+
+experimentation - 40%
+• guide the evolution of the experimentation framework by providing thought leadership, setting standards, ensuring the utilization of best practices when applicable, and customizing the approach to align with objectives and available resources.
+• closely work with product teams to facilitate the usage of tools, frameworks and best practices along the experimentation process, from ideation to insights.
+• evaluate data anomalies and develop root cause analysis for performance in a/b tests.
+• proactively recommend test ideas, test hypotheses, and primary/secondary success metrics.
+• be a superuser and facilitator of user testing in the organization.
+
+training and development - 10%
+• assist the manager analytics & insight in coaching, training and mentoring other analysts, providing feedback as required.
+• assist in developing and documenting best practices for improving operational efficiencies within the analytics function.
+
+qualifications
+• bachelor’s degree in mathematics, business, engineering, computer science or a related analytical field; master's degree an asset.
+• 5 years of experience in an analytical role.
+• high proficiency in querying and analyzing large data sets using sql; python/r experience an asset.
+• high proficient in developing dashboards, custom reports and analyses using tableau, power bi or other data visualization tools.
+• knowledge of experimentation methodologies and evaluation techniques.
+• experience working with big data environments such as google cloud platforms or aws cloud solutions.
+• proficient in microsoft excel / google sheets and microsoft powerpoint / google slides.
+• excellent written and verbal communication skills in french and in english.
+
+skills
+• strong ability to synthesize key insights from a multitude of data sources.
+• excellent communication and presentation skills; ability to present complex information to stakeholders of all levels, including more creative roles.
+• proven attention to detail and highly organized.
+
+additional information
+
+world class technology
+
+technology is at the core of everything we do at ssense. driven by an engineering mindset and a problem-solving attitude, we blend fashion with technology to deliver an unparalleled experience to our customers as we build seamless, custom solutions to deliver the ssense offering.
+
+world class team
+the ssense tech team is responsible for an international headless commerce platform. working in an agile environment, our squads are made up of experienced innovators in product management, qa, design, devops, software development, machine learning, data engineering, and security. headquartered in montreal, our technology organization has been growing at a rate of 2x year-over-year and is doubling once again in 2021 as we expand across canada, us, and europe.
+
+world class platform
+
+the ssense platform runs on amazon web services making use of serverless microservices across web, mobile and app. our event-source architecture already achieves over 10,000 requests / second and growing at an unmatched pace, currently unseen across the industry. our data-driven culture of innovation empowers every product team across the tech organization to explore building, testing and learning with the latest in machine learning techniques. our automated continuous improvement devops model (making use of both blue / green and canary deployments) results in an average of 50 production releases every day.
+
+read more about us on our ssense tech blog",['Full-time'],eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6Ii1mUllkLUxBd3Z3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUkVKTGRHWnFMVTVrTTJjeVZXMDJSMmN5YUV0cVpVZG5hemxXVTJSeFpVUTJhVmxUZUZkd1lXWkJXVU5RUTFKNFpscHpOM1JyWVc1MVoxbEtSbnBPYVVVMGVsVkJSUzFKY0V0VFRFZDRSVlp4YkdaNlJXaFdTR2RhY1dzM1JVRm9UVU4wVnpOR09YWnhNRVYwUVhWMVNqZFllbTgwU0hsRVJVTlZkMDF1U1RONE5WWTJZalk0TlRWdGJHaGxiVlZ2TjJreVYweE9TSEJQYlhJMk5GVmFaa3BKV1Vwb2JUVk5kM1p3Ukc5SldtRkpFaGRSWkdsSVdUWkRjRWcwY1hCeGRITlFNRTl4WmpoQmN4b2lRVVJWZVVWSFkyMDRTM2htWVV4R2FuWmFWbTVTYkZNMU9VNUNTekUxUnpCdVp3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTY2FsZWZhc3QiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLnNjYWxlZmFzdC5jb20vby9kYXRhLWFuYWx5c3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,1.0,0.0,1.0,1.0,1.0,2022-11-30
+Data Analyst,ING,"Madrid, Spain","job overview
+
+researches and updates a reference database for use in global and national offerings in iqvia worldwide
+
+essential functions
+• researches information for the creation of global database.
+• analyses and interprets researched information by telephone and internet in relation to iqvia’s business rules.
+• analyses changes in information and incorporates these changes in the iqvia system/database.
+• updates existing global data systems with new and changed information to provide clients quality and accuracy.
+• ensures the information created is correctly transferred into relevant systems, databases and client offerings.
+• may assess impact of data changes on regular client offerings.
+• may answer queries on global data (client and internal).
+• may assist in training of new data analysts.
+• may assist with scheduling and tracking creation of global reference data.
+
+qualifications
+• college degree or higher & bilingual- french and english
+• customer service/call center... experience preferred
+• good understanding of working on a database
+• interest in the global pharmaceutical industry
+
+iqvia is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry. we believe in pushing the boundaries of human science and data science to make the biggest impact possible – to help our customers create a healthier world. learn more at https://jobs.iqvia.com","['14 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImtXb1lUVG9zYXpJQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVRjBWbXhpUTNOUVNIbzJka2hHTVRGRGRqaGxTbUpxZUVWU1ZtbFFZVkl0UmpGUU5XaE5VSEF4VXpCNGVWRlBhM2RMVlVFd05tNXFNazUyY1RCM2FHTmZhVlp0VVRaTmRIZGtSbEkwTjFBd1JEWlphVVpsUldwaWREWnNMVXBqWWtkMlZVVlBRbXBaWlhocWFrOXVORU40T0hoRlUyeDVORE53U21scmRGaHJYMWhuY1RGT01DMWFRVUZCYjBwa2ExaGpOVzFIY1RkVE9VWlpZbmRvT1Y5bkVoZFJaR2xJV1RaRGNFZzBjWEJ4ZEhOUU1FOXhaamhCY3hvaVFVUlZlVVZIWmxKUmFtdHFSV3RPWm5aRGQydDVkRjh4VjNWWmMxTkdjemhEWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXd3cuaW5nLmpvYnMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5nLmpvYnMvZ2xvYmFsLWVzL29mZXJ0YS9kYXRhLWFuYWx5c3QtMzQ4Lmh0bT9vcmc9c2VhcmNocmVzdWx0XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst - People Operations,Fever,"Madrid, Spain","job description
+
+job title : data analyst
+
+this position is with the enterprise system management (esm) department. the position is with a team responsible to manage our company it inventory and assets data. this data is critical for regulatory, operational, and efficiency purposes. our goals are:
+
+sourcing it inventory and machine data (e.g. logs, alerts) in a timely manner.
+
+storing the data in scalable repositories
+
+providing analytics tools to analyze and derive insights from the data.
+
+providing data access apis so that other applications can consume the data and insights.
+
+you will be part of a project to measure and analyze data quality. you will be responsible for the collection of information and requirements from customers, as well as for data modeling, data wrangling, data onboarding and data analysis. you will also be responsible to present your data insights to customers.
+
+qualifications (required)
+
+strong experience of sql and relational databases
+
+strong data modeling... experience
+
+experience with data integration frameworks and concepts
+
+experience with python
+
+experience with of tableau, qlikview, powerbi or similar tools
+
+experience working in unix environments
+
+experience working directly with data consumers to fulfill their needs
+
+strong networking and collaboration skills, particularly with other engineering teams
+
+strong verbal and written communication skills
+
+ability to work independently
+
+qualifications (nice to have)
+
+knowledge of graph databases (e.g. neo4j, rdf-based)
+
+experience with git
+
+experience with agile/devops
+
+knowledge of other bi/reporting platforms
+
+experience in db performance tuning
+
+experience in software/system design
+
+knowledge of data center and it inventory equipment
+
+knowledge of data governance & master data management concepts
+
+knowledge of ai and machine learning frameworks
+
+experience navigating large/complex it environments and infrastructure",['Full-time'],eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBQZW9wbGUgT3BlcmF0aW9ucyIsImh0aWRvY2lkIjoidzBsbEc1ZVQ2cllBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRMjl0YlhWdWFYUjVJRzltSUUxaFpISnBaQ3hUY0dGcGJnIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRMmhpVURobU9HWjVWV2xKVFZoQ1RqVk9TR3ROTXpSeWJrazNYek5EYkdsNlkxcHpPVEJyY1d0aGN5MXdha2QxTmxwNWJsWXpNa3QwUjNvME5YZERiSEZ2Tm1KRldrd3ljR1pwTWxnNFFrUkpTMVI0YzBOME0waDRWRlpMZDNOUU4xWXpjMGRXUlVaNWJGSTNhRkZtVkZWQmIzUklWbk41U1VReFdXa3RiRUppYkU5YVZFWnZVV3ByYzNKU1ZGSm1VRmwxUWxsZmJtbDJkVU5KZWt4V05FOXViazl5UTNKV1FYbE1hMGRvTFdGdkVoZFJaR2xJV1RaRGNFZzBjWEJ4ZEhOUU1FOXhaamhCY3hvaVFVUlZlVVZIWlc5a2VWTkxSR2RxZFVKbk9ETkZWVU50WXpneWJubHNTMXBZUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBGZXZlciBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5mZXZlcnVwLmNvbS9qb2JzLzQwOTEwODIxMDEvZGF0YS1hbmFseXN0LXBlb3BsZS1vcGVyYXRpb25zLz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,1.0,1.0,0.0,0.0,1.0,2022-11-30
+Product Data Analyst (Professional Lighting Projects),Signify Netherlands B.V.,"Madrid, Spain","from coast-to-coast, our inspiring colleagues are at the heart of what we do best: helping people, businesses and society prosper in good times and be resilient in bad times. with our team, you’ll bring this purpose to life every day by living our values, being open to change, and pursuing your goals.
+
+in return, we’ll give you countless opportunities to learn and grow, alongside a diverse and passionate community of experts – the best the industry has to offer. you’ll be empowered to be your best self, do your best work, and make a meaningful impact. here, you can help shape the future of insurance, win as a team, and grow with us.
+
+about the role
+
+we’re looking for a data analyst i to join our growing team!
+
+what you'll do here:
+• create and publish reports.
+• monitor, identify, and analyze trends, explaining outliers and providing influential feedback related to results and productivity.
+• consolidate data from various sources, ensuring data is clean.
+• build and maintain an... inventory of data and support the monitoring of kpis.
+• proactively identify new data elements that may provide further insight into performance or business trends.
+• analyze and present information clearly and concisely to diverse audiences within the organization.
+• create and maintain effective documentation to assist in training and reinforcement of workflows & best practices, and to satisfy audit protocol.
+• conceptualize, develop, and implement technical solutions to meet the evolving needs of our partners.
+• work in collaboration with project team members, leading the development of new reports using powerbi.
+• support ad hoc reporting as new needs arise.
+• proactively identify new data elements that may provide insight into performance.
+
+what you bring to the table:
+• bachelor’s degree in data-related field (i.e., mathematics, science, statistics, ai, computer science, etc.), or any combination of equivalent education and experience
+• 3+ years of relevant work experience as a data analyst
+• can communicate effectively with diverse audiences verbally and in writing
+• excellent time management and organization skills, managing competing priorities to meet deadlines
+• strong critical thinking and analytical skills with high attention to detail
+• dynamic individual with a high level of energy and strong initiative
+
+what we offer
+
+working here means you'll be empowered to be and do your best every day. here is some of what you can expect as a permanent member of our team:
+• a financial rewards program that recognizes your success
+• an industry leading employee share purchase plan; we match 50% of net shares purchased
+• an extensive flex pension and benefits package, with access to virtual healthcare
+• flexible work arrangements
+• possibility to purchase up to 5 extra days off per year
+• an annual wellness account that promotes an active and healthy lifestyle
+• access to tools and resources to support physical and mental health, embracing change and connecting with colleagues
+• a dynamic workplace learning ecosystem complete with learning journeys, interactive online content, and inspiring programs
+• inclusive employee-led networks to educate, inspire, amplify voices, build relationships and provide development opportunities
+• inspiring leaders and colleagues who will lift you up and help you grow
+• a community impact program, because what you care about is a part of what makes you different. and how you contribute to your community should be just as unique.
+
+we are an equal opportunity employer
+
+at intact, we value diversity and strive to create an inclusive, accessible workplace where all individuals feel valued, respected, and heard.
+
+if we can provide a specific adjustment to make the recruitment process more accessible for you, please let us know when we reach out about a job opportunity. we’ll work with you to meet your needs.
+
+click here to review other important information about the hiring process, including background checks, internal candidates, and eligibility to work in canada.
+
+if you are an employee of intact, belairdirect, or johnson insurance, please apply for this role on contact people","['9 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJQcm9kdWN0IERhdGEgQW5hbHlzdCAoUHJvZmVzc2lvbmFsIExpZ2h0aW5nIFByb2plY3RzKSIsImh0aWRvY2lkIjoiQzZNRGpjdE9qM1VBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRMjl0YlhWdWFYUjVJRzltSUUxaFpISnBaQ3hUY0dGcGJnIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVyY0NDdmNCUVVGMFZteGlRbUpaU25CeWJFZGljbXR4VVRKdVdXeFdjbGcwZVdvNFh6UlliRjlwVUZnd2NUUklVM2hWVVV4Sk1XVmpaVEZXTXpNMmNqRklkVTFmVjFoVk0xRXpiMlpCVEY4MVVrVTFialJGUnpoV2RUbElPRU40ZUhSNmQxRjRibVV0V0RFMVdrcDZXbkoxZUVwTk4wOWZTM0ZSZHpWbk5qaHdjRVZZT1VoUFZUWlBRV2swU0dWNE1WOU5MWE50Yld0T1kwSjVWWHBXWmt3NFpFTm9XbXhWY2tSQ1pFWkRjMWN6Y0RWRVlsVlBZblp5V25CZmJ6RnROMGR0UTBZM2FrOHRTM1Y0TFZCMWMxTkJXRFJ4WTNZemF6bFhkR1pwYm1OMFQxRkNTa2cxUTJ0dmRIUlFaVEpVWW1VMVVVVnZPSEZ1YmxwUldSSVhVV1JwU0ZrMlEzQklOSEZ3Y1hSelVEQlBjV1k0UVhNYUlrRkVWWGxGUjJWV1kxVnVkMko2ZW01amExQTNNMngxY0dSc2NHaEZTbUZCUVdjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQ2FyZWVycyBBdCBTaWduaWZ5IiwibGluayI6Imh0dHBzOi8vd3d3LmNhcmVlcnMuc2lnbmlmeS5jb20vZ2xvYmFsL2VuL2pvYi8zMzU4NzIvUHJvZHVjdC1EYXRhLUFuYWx5c3QtUHJvZmVzc2lvbmFsLUxpZ2h0aW5nLVByb2plY3RzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,1.0,0.0,0.0,2022-11-30
+Data Analyst - Remote,Mattermost,Spain,"the data analyst is responsible for the implementation and development of crm and digital analytics solutions across laura and melanie lyne websites and online tools. they will play both a technical and strategic role across our organization. they will shape the future of online and offline marketing efforts by providing key analyses on a variety of business metrics.
+
+1. data analysis
+• provides multi-channel (direct mail, email, social, paid media, affiliates, etc.) analysis of marketing campaigns including roi reports and other kpis.
+• provides customer-specific statistical reports, as required.
+• prepares and distributes various daily, weekly and monthly crm reports, as required.
+• performs the maintenance and reporting of all loyalty programs and provides assistance when needed.
+• works with the email team to setup marketing automation communications and manages all related dataflow required.
+• develops and presents clear and comprehensive findings/recommendations to leadership on... key analytical initiatives.
+• integrates existing analytical tools (segmentations, models, etc.) into analytical deliverables, manipulates, analyzes, and interprets data from different sources.
+
+2. database maintenance
+• subject matter expert on the data sources contained in the customer database and how they can be leveraged to address business challenges and opportunities.
+• verifies and processes all incoming sales, merchandise, employee, email, store and customer information into crm system. ensures all internal processes related to crm are running correctly.
+• performs various database maintenance functions.
+
+3. internal customer support
+• assists in crm/analytical-related it projects.
+• assists all other departments with crm/analytics-related requests.
+
+qualifications
+• university degree with a minimum three (3) years of experience performing and leading digital and crm analytics.
+• expert in site analytics tools implementation and development, in particular google analytics and google tag manager
+• experience with behavioral, funnel, cohort, checkout and attribution analysis as well as a/b testing in an ecommerce context
+• experience with data integration (ftp, api, email) and data modeling in a web analytics context is an asset.
+• experience with the google marketing platform products (adwords, dcm, dbm) and their integration within the google analytics suite is an asset.
+• experience using a crm data tool like aptos
+• proficient in microsoft excel/google sheets and microsoft powerpoint/google slides
+• has a true passion for analyzing data.
+• has developed project management skills.
+• strong interest and knowledge of the fashion industry (brands, designers, customers)
+• bilingualism
+
+additional information
+
+at laura canada, there are no limits to what you can achieve - come see for yourself!
+
+to know more about the company, visit https://www.lauracanada.ca/en/.
+
+company description
+
+laura canada is an iconic and innovative family-owned retailer housing two leading women's fashion apparel brands, laura and melanie lyne. based in laval, quebec, we design, produce, market and distribute quality apparel across canada. we proudly employ over 2,000 dedicated team members and operate more than 140 locations and two online stores. we attribute our success to the unwavering commitment of our team to delivering outstanding customer experiences while embodying our shared values of integrity, respect, teamwork, performance, and passion.
+
+at laura canada, we believe that delivering an outstanding customer experience is driven by our commitment to an outstanding employee experience","['6 days ago', 'Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBSZW1vdGUiLCJodGlkb2NpZCI6ImtPQkhhWVgzRVlrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUkVoUmQxTkpUM0JyVG1aV2NtSk5kRGgzUW5sTlVEQkVlbWxuVVdoRlYwdHJXVWsxZVVKcU9XUlJZMkZGUXkxbVIxaDVSams0ZGtwb1dtczVaMmxSV1hwa2NFbGZaa1JJUmt4elVFVklhMFo0UmkxWmNXSkNjR05wZFRBNVR6QmZVVFZCVDIxTGFYTkZPRFJrTURscmVqQXRRVWROVmpSb2IwNUxYMHByTXpGbk5tZFRlbUZ2TW1VNU5raDFXV3N5ZVdGZlpqWm1iRWQ2Y1cxalRGTlRhV2R0TWtkMFJsQm5iWGROUzNGM2NUWmpFaGRSWkdsSVdUWkRjRWcwY1hCeGRITlFNRTl4WmpoQmN4b2lRVVJWZVVWSFpFaE9SR1Z5ZWtOU1F6Rm9ZblV6UkMxeFZtOXBaemQxUkV4SFVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gRGF0YVlvc2hpIiwibGluayI6Imh0dHBzOi8vd3d3LmRhdGF5b3NoaS5jb20vb2ZmZXIvMzI4NjA3L2RhdGEtYW5hbHlzdC1yZW1vdGU/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,1.0,0.0,0.0,2022-11-30
+Data Analyst,Verisk,"Calgary, AB, Canada",,['Full-time'],eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IlM2RVJDVFRDQWk0QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXUTJGc1oyRnllU3hCYkdKbGNuUmhMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRWFU0ZVZkQ1NGbFRNRXBVTlhKZmJWWTNZMUoyZEdoeVVUSm5RbWg0YkdjdFIyMHhkMUZXT0U5MVRuaGFOVmM0ZUhNM2JrTjBNa3RUTVhCUmJFd3pSemRTVm10MlN6bE5iMlEzZWpOYVJsWktkbUZuUW5aaU1tazFabnB1YlhrMWVVRnpTVnBYVHpadmIxRnpabmM1ZDJwcWNsUlBNa3RNTmxwMlFVcElOMkpYZWpOUVRHNDNiMUZzTm5kVlNtMVVNVWxvT1ROaVJHcDZlbDluRWhkU2RHbElXVFZFVmt4d1RHMDFUbTlRZEUxRGJ6aEJNQm9pUVVSVmVVVkhaVVJmYmtaRE9HbDJlbnBrV20xbk5GRk1TazltVUdaalVraHBkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gU21hcnRSZWNydWl0ZXJzIEpvYiBTZWFyY2giLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLnNtYXJ0cmVjcnVpdGVycy5jb20vVmVyaXNrLzc0Mzk5OTg1MTc5NTUxNS1kYXRhLWFuYWx5c3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+"Contract Opportunity - Data Analyst I, Calgary, AB",Vaco,"Calgary, AB, Canada",,"['Contractor', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJDb250cmFjdCBPcHBvcnR1bml0eSAtIERhdGEgQW5hbHlzdCBJLCBDYWxnYXJ5LCBBQiIsImh0aWRvY2lkIjoiSFI3Q2NUY1pJUU1BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdRMkZzWjJGeWVTeEJiR0psY25SaExFTmhibUZrWVEiLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXFJQ0N1SUJRVUYwVm14aVJHaHlNa2h2YlV4NGFqaGZhWGRqZVdwbVZYTnhhM1k1TlZaRVUwdE9aMnBJTFVkM1Zta3RVSFpQVFc1YWEyNVBVRGh3TjNWWmVtRklURXhvVjNneVptcHFlVkI2Y1dFM1kxOVFZemN3UlZOVlVreHVWa2hxVkU5RFNYVlBjRUZqTFcweWExTTNNRko2VXpGTWVWbFNURGQ2ZFhaVVJHaGFkbHA1YWs0NWVXMURSREIwTVdwcE1tbE1jVlJIZG04MGVsaElkbEF6WVRCcmJHaG9hR1ZHYVVOdFEwaHFNakpuZW5Bd2FteHVlRTB6VUUxSlZrcHZRbVZpTUV0eGJFZEtjVjlrWHpSdFNEbFVVWHBxYjNjNFUzTTBhWHBtWkVaYVUxazVaeElYVW5ScFNGazFSRlpNY0V4dE5VNXZVSFJOUTI4NFFUQWFJa0ZFVlhsRlIyWXpabGhoUldsdFZIUmFUbEIyTlZWVVdWcExSMnhLYjJaV1MxRSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTW9uc3RlciIsImxpbmsiOiJodHRwczovL3d3dy5tb25zdGVyLmNvbS9qb2Itb3BlbmluZ3MvY29udHJhY3Qtb3Bwb3J0dW5pdHktZGF0YS1hbmFseXN0LWktY2FsZ2FyeS1hYi0tMTkwN2IzMTEtN2VlMi00NTEzLThmNmQtZjhiYzNiYzdiNmZkP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,WealthCo,"Calgary, AB, Canada",,"['8 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImJaNnBwQUxleG4wQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXUTJGc1oyRnllU3hCYkdKbGNuUmhMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlSRmh6VFdKb1FrVXlkVzFoUmkxeVNtNUpZbU54WkhNMWFHbG1VRTQzWTJVMGVGazBNbmRLVDNKU2VIRlZkak4zUm1aS1Frd3pTVXg0UlY5eVVFWnpOMkk0VFZCa0xWcGpXRVZxZW1SMk5tSTJaM1Y1VURjd05qazRaV2RCUlhCbk56WkVXRm8wVms1TlJXVkhhV1ZqVlhGblkzRTJaVjlXY1RSSmNrbFRXVGt6VHpCQ1JFNURTRVo0TUVKNGJXMXljR050VUhKVE9EVnZYek4zZG5CdFVWaDNWVFpFWjJ4RldVYzFSbUZDWkZoTkVoZFNkR2xJV1RWRVZreHdURzAxVG05UWRFMURiemhCTUJvaVFVUlZlVVZIWkVoUk4zUnVkbVpaUVZGS1IzSklMVTFPUkMxdkxVdzBUbEJOWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY181IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEluZGVlZCIsImxpbmsiOiJodHRwczovL2NhLmluZGVlZC5jb20vdmlld2pvYj9qaz03OTZmYWVkMjA0YjZlMTFkXHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+"Business and Data Analyst, Digital Practice",Stantec,"Calgary, AB, Canada",,"['23 days ago', 'Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJCdXNpbmVzcyBhbmQgRGF0YSBBbmFseXN0LCBEaWdpdGFsIFByYWN0aWNlIiwiaHRpZG9jaWQiOiJ4elBOOWVNSHVpUUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1EyRnNaMkZ5ZVN4QmJHSmxjblJoTEVOaGJtRmtZUSIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUXpJMVlVaFhiMWxST0hVeGVtVjNiMnBoTm5STE1qQTVPSEpYVUZsMWNrNXFSMmxhWkRSTUxVWktlWEJ5V0c5cFNXTnBia1J1VkhOUVFUTkhjRWRUV2tOTGR6TnpSblpDUlRGQ00yVk5XbkIyYkVoaVoyVllaM2MwWW5OcFJFaGlTMjVWUzNkYWF6STRiVWxWZVRaM1ZXSmxkVzE1WWxkV1NIaE1PWHBDZDI0dGFsWk1iRkZPVkZWaVNFTjNUVnB4WDA5V1ZGRlZjRXRZZEhKeE5IaFVaMnRZTkZOT1MxTkZjVTVaTnpkUVJqTlZhVWxtUmpka2RrdE1PWEpSZVVVeVFUUkxhVFUxRWhkU2RHbElXVFZFVmt4d1RHMDFUbTlRZEUxRGJ6aEJNQm9pUVVSVmVVVkhZMjAyV1c4Mk1UTmlTakZyUVUwelZYbFJYMmRzTVVGTmFsUkdadyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gR2xhc3Nkb29yIiwibGluayI6Imh0dHBzOi8vd3d3LmdsYXNzZG9vci5jYS9qb2ItbGlzdGluZy9idXNpbmVzcy1hbmQtZGF0YS1hbmFseXN0LWRpZ2l0YWwtcHJhY3RpY2Utc3RhbnRlYy1KVl9JQzIyNzUxMjNfS08wLDQyX0tFNDMsNTAuaHRtP2psPTEwMDgyNjU4MTMxMzJcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Marketing Data Analyst,Society of Petroleum Engineers,"Calgary, AB, Canada",,['Full-time'],eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJxVVkwR2pxcXNoSUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1EyRnNaMkZ5ZVN4QmJHSmxjblJoTEVOaGJtRmtZUSIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUWpCNFYxcExjV2M0ZEVOaFRURkhUMlJXTW14bFpuRmFibEl4ZHpaTFpqVmZla1ZvV2xoV2JGUnVhbVpvYmxBdGVGZFFRak5EWlU5SFJYbGplbXMxVVdOQlpIZFFNRlpETTFKeGVrWnJhVmg1TVhwcVYwcDZUbFV6ZEd0YU5XSjRVMjFQWVhoalpXMUlOekl3UkVGcWJFbDNTa1owVDJoZmNVWkJPRjlYT1ZaYWVEUnpkbTVuTlZCdlMzaGtVMDFqV1UxeGVEQjZPWE5hT0dsclMwZHNOR0ZYZHpCZlNXUTFWbWRmV0VwZlkzZzVNV3c1UXpWM1VpMXJNRmQzZWs4d2VYVnhNblJ0RWhkU2RHbElXVFZFVmt4d1RHMDFUbTlRZEUxRGJ6aEJNQm9pUVVSVmVVVkhabDlSTUVacU1sUnFOSEI0YzNCdmJEQm1hMkZNZEc1VVl5MDVRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzkiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gWmlwUmVjcnVpdGVyIiwibGluayI6Imh0dHBzOi8vd3d3LnppcHJlY3J1aXRlci5jb20vYy9Tb2NpZXR5LW9mLVBldHJvbGV1bS1FbmdpbmVlcnMvSm9iL01hcmtldGluZy1EYXRhLUFuYWx5c3QvLWluLUNhbGdhcnksQUI/amlkPTkwOGRkZTMxMGFlNDYyOTFcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Junior Data Analyst,JobArch,"Calgary, AB, Canada",,"['Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJJYWNqSzRpd0tRa0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1EyRnNaMkZ5ZVN4QmJHSmxjblJoTEVOaGJtRmtZUSIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVRjBWbXhpUVdGNFVrOXlVVXhKV2tzNWRXVnJRbTA0Ym5WMVRsOHRWRE5FVG5GWlgxOXVjbVIyZGxkM1IyWnNOamhyWWxSVlJEZHZVVXhqWDFoaFdrRXdiV2R2V25BM2NsSmxOVUpTYWxjd1ptNU9OVlJ0VFhseGJWWm9UMHh4UlVWRWRsaHFSbXhvV21oclNYRlJMV3RNVDI1ZmMwaHhNM2xKZFhwQlgybHZWVVpTU1Y5S1NDMUZVV3RUU2xSM1NGSkdabTg1UkRoVVpWVXRVMVJwYTJsQkVoZFNkR2xJV1RWRVZreHdURzAxVG05UWRFMURiemhCTUJvaVFVUlZlVVZIWm5wbmFESTJURFpZUVMxcVRETTFTMWRzWTJwVWRGbHRZbHB5WnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBSZW1vdGUgVHJpYmUiLCJsaW5rIjoiaHR0cHM6Ly93d3cucmVtb3RldHJpYmUubGlmZS9yZW1vdGVqb2JzL2pvYi9qdW5pb3ItZGF0YS1hbmFseXN0Lz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst I (Contract),Tundra,"Calgary, AB, Canada",,"['Contractor', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSSAoQ29udHJhY3QpIiwiaHRpZG9jaWQiOiJvaWVMaWVncXByQUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1EyRnNaMkZ5ZVN4QmJHSmxjblJoTEVOaGJtRmtZUSIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVRjBWbXhpUkRoclFVcGtVM2g0V0dwMmNXUlFkRU51V2pGNFZYRkNVVGRLTVZGRFUzZFRZMlpRUVRaaU9GTnRVSGhoYzE4eU1VcFBiREJEVkZSbldISTROMU5XWm1oc05VMVdNMnRHYzNKc1pXVXdTbGxKYUhOUWJUbGpURjlYTUMwM1RWWktVRnBQTjJOZmVHODRja3czYms1bmVGQjVNVVZwV0hKNFJ6ZDBUblJzZEdwcE5qVmpNRkkyV1VOWlEwbElhbWR2Ym1OMWJEUTVUMHBpWXpabkVoZFNkR2xJV1RWRVZreHdURzAxVG05UWRFMURiemhCTUJvaVFVUlZlVVZIWlc5S1RqZHRkMjlmU0hGcmJrWjJjako1YmpGU2JVbDVSRlJIZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUdW5kcmEgVGFsZW50IENvbW11bml0eSIsImxpbmsiOiJodHRwczovL3R1bmRyYS50YWxlbnRuZXQuY29tbXVuaXR5L2pvYnMvMDA3MDg1YjUtMmVlNi00MjlmLWEwZDQtNzNlYzcxN2YwYTI2P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Senior Data Analyst,Mace,"Calgary, AB, Canada",,"['7 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJhOGpZV2tSUENrZ0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1EyRnNaMkZ5ZVN4QmJHSmxjblJoTEVOaGJtRmtZUSIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUXpoZmVYaE9jbTlvWTFKd0xWVjRaMXBvTUhCSVNVeFphbmxZVkhablJqZG5PVTlSZFdsNGNsUTFiVm8wZGxwVFVWQTFTMVF4T1hCUE1GQjZUalYwV1U4eVozaGhNQzFwTkVWcU5VWTNTMjlSYkhkaVIzbFllbXRYWkVSR1N6RnhNMUpIYUdsSGFsTTRORE5tZUdkd1Z6Wm9VSGxtTjNwTGFtNDVNVXN4U2tNMmNVRXROa2hLTW13d016SklWVEJ5VTB0WVpFdDZOMGQ2Y1hGUGMycHlRa3cyZUZGcE56WlNhbkJsVkdwVWRubHZFaGRTZEdsSVdUVkVWa3h3VEcwMVRtOVFkRTFEYnpoQk1Cb2lRVVJWZVVWSFkzUnJTa0Y2VWxkR05HNDJTWEZyZUZRemNXNWFTRmM1TURCWGR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L3Nlbmlvci1kYXRhLWFuYWx5c3QtYXQtbWFjZS0zMzEwODY2ODg3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Senior Data Analyst,TELUS,"Calgary, AB, Canada",,"['7 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJQSFYzbF93S1IzY0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1EyRnNaMkZ5ZVN4QmJHSmxjblJoTEVOaGJtRmtZUSIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUkdKNFREWk9WM3B5TkRGb1VtMUhVbmx3Y0hocU5GVklTMjVyZVZWMVoxWnhXREJEVFVkaGVGOXZiemRLTkZoUGRsOUNTM1JmY2xaSlIybGpZa2xWTUZaTGVEQjNlVFZRWVRCNk9IbDNRWEZQWTBoeE5VUXhNbll4VEUxRlJ6TXdUbDlNTjNSWlMxOWliV2gxZUdoR1F6UkdlV1JGVWpsVFZEVndTakJZVERacmRIUm1TblJFU0dJd1lUTnBMVkEzVGt3eVVUVlFSa2RLZUhaUWMwTmxXR0Z5Y0VOVlptVnpiR3hzV0RobGEyMU5FaGRTZEdsSVdUVkVWa3h3VEcwMVRtOVFkRTFEYnpoQk1Cb2lRVVJWZVVWSFpYaHhUM3BFUzBaTVIydG5aMkptWmxOelduQkpZM2hHTlcxWlFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQmVCZWUgQ2FuYWRhIiwibGluayI6Imh0dHBzOi8vY2EuYmViZWUuY29tL2pvYi8yMDIyMTEyNC1iNDhlZTcyYmI0M2IzZTQ5MThlMGU3OWU1YzZiOGE3OT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Coop Student - Data Analyst (Operations Technology),Canadian Pacific Railway,"Calgary, AB, Canada",,"['16 days ago', 'Internship']",eyJqb2JfdGl0bGUiOiJDb29wIFN0dWRlbnQgLSBEYXRhIEFuYWx5c3QgKE9wZXJhdGlvbnMgVGVjaG5vbG9neSkiLCJodGlkb2NpZCI6IjBFMWdLa3MxcU00QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXUTJGc1oyRnllU3hCYkdKbGNuUmhMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVyY0NDdmNCUVVGMFZteGlSRk5TVFdoMlYyTkJOR2RxZEZKdlZrZHlZMWRyTTJKeFdYazJSR1ZJYW1GUE5IWk1jWGhFV0hBeGNIZzNUWEpTYUhaeU1sQmhkbkppZDA1aVFWWklZVmwxVnpaSU5ETjZZWHAxYlRaa2RsRlhSMUJVU0RSUmFEWlZTR1l6ZFVWVlV6Tk5hVFoyUzFwMGMyWkNabkpsVG5Wd1pVZHFNbll6ZFU0eVgwaGhjamxKUkVJMFJIWm9jalo1WWpaclVuTlhlVE5JYlZwa2N6VlNPRkJWV21aTVptaHpUbWRDZEZWYWJuRnBSbGw0YVRCMVRWSkViMlp4U21WS1FrVTRReTAxUjB0amF6aHpTbHBUU1hGRmFuaDFjalUxVVhCVWVtNDJVRGh2VUY5MFRHSndTelZhT1VFelFUWnVTV3N5WmpkeVNSSVhVblJwU0ZrMVJGWk1jRXh0TlU1dlVIUk5RMjg0UVRBYUlrRkVWWGxGUjJSUlYwRlFkVVpaTTBaQlJHZHdXa1o0Y1hCM2EzVkVNMVp5ZFhjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icyBBdCBDYW5hZGlhbiBQYWNpZmljIFJhaWx3YXkiLCJsaW5rIjoiaHR0cHM6Ly9jYXJlZXJzLmNwci5jYS9qb2IvQ2FsZ2FyeS1Db29wLVN0dWRlbnQtRGF0YS1BbmFseXN0LSUyOE9wZXJhdGlvbnMtVGVjaG5vbG9neSUyOS1BQi81NjUxODI0MTcvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Senior Data Analyst - Campaign Decisioning,Royal Bank of Canada,"Mississauga, ON, Canada",,"['2 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IC0gQ2FtcGFpZ24gRGVjaXNpb25pbmciLCJodGlkb2NpZCI6ImkycDZtZDhmRXd3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVkc5eWIyNTBieXhQYm5SaGNtbHZMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxSUNDdUlCUVVGMFZteGlSSHBxZUd4bmJubEJUVnBWZDNoVE1tcG1jRFZZT1VOeFNVaExUME16ZEVkWlNrOU5WR0Z2UXpOTE0xZG5XbFprTlhkeVJDMHlRVVIwWWxNMVUxSjFjRVoyWm5oZmNGZGlSV2xvVDA1UWJFZFZWME14Wm5FNWFqbExWbGN6ZWtRdFVGcFVPVTkzY2xaRmVYRkVReTA1UWtGV1dVeDRNVVl4ZGw4eGIwNUxWVVZOTjFsQmRFNXROVlUzWmkxNmVVWXRZVUpRYzI1bVQwaFJWRlZNVHpOaWFEUkhZbUZ6YzBkVlFWZExUbGRoTldaQ1RFbEhWMjFuY2taUVFrZHVha0pXUjI5UVkyZE1OSGc1UTJOaWIxWjJRV3RGV21zd1UxSkpaRzVxZHhJWFUwNXBTRmswYVdoSlVGTldjMlZOVUhweE1qa3dRV2NhSWtGRVZYbEZSMlJ3UzFNME9VTjBVRVJRZVdwWVZUUjVPWEpUUTFGdU4xRkNibmMiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IGRpcmVjdGx5IG9uIFJCQyBDYXJlZXJzIC0gQWJvdXQgUkJDIiwibGluayI6Imh0dHBzOi8vam9icy5yYmMuY29tL2NhL2VuL2pvYi9SLTAwMDAwMzk1MjIvU2VuaW9yLURhdGEtQW5hbHlzdC1DYW1wYWlnbi1EZWNpc2lvbmluZz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,Electronic Arts,"Toronto, ON, Canada",,"['Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IkVPWGFyYWZYdTJrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVkc5eWIyNTBieXhQYm5SaGNtbHZMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRMWxaY1Rsd1JtSndUV2hrU1RORU9WSk5WVVZOTW5OdWNrRXpRbmhSTkRReU1rdDRNRTl5YUdsUVEyZHdUbHBWVUdSNllscGtPRnBIU0RoRGVHdExlbU5tTlVkcmVtNVNUMmR0UmpVeFpHTm5Wa0UxZDBwRlJXSjVjR2RmUTB4WlNFWlZlalZvU0hvemEzZE1WV2RLU1ZoU1JHeE5kRkpKY25wVlEyUjFia1pWV0hVMFQzbHRlSEk0YkRrME4wSjZTakpTUlVobFRGSllNVGx3VkdjNVFYazVTVnBhVEU1MmFtNUhSekJsWm5CM0VoZFRUbWxJV1RScGFFbFFVMVp6WlUxUWVuRXlPVEJCWnhvaVFVUlZlVVZIWkRORmVucFhUM1poZUdKZlUwVXdSM1pLVjNaSmRXSkNVVmhDWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEVsZWN0cm9uaWMgQXJ0cyIsImxpbmsiOiJodHRwczovL2VhLmdyOHBlb3BsZS5jb20vam9icy8xNzY0MzMvZGF0YS1hbmFseXN0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,Dawn InfoTek Inc.,"Toronto, ON, Canada",,['Full-time'],eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IlFSLVZnWXVXdUlnQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVkc5eWIyNTBieXhQYm5SaGNtbHZMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRVE5tTFVGMGNYbGhNVFpRWmtGU1VsZ3lOVGRCTmtSdVgybHVSRE42YW0xTmJubGpaRzVFVWxoUWRWRm9Za3RKVDNCMmFXdENlVGhrZFc0NVQwNU1aVXhZZEVkc1pFMTNXV1o2T0ZGVk1tODFUR2xGTFZKbk0wMXBWRTV4VFd3eGExRk1RVFJSZG5SalVYSlpNazlqYmpkTE5XWnlOVWhwZDNaM1JFdDVRa2RXVmtkcFFsRjBiVVI1UW1aNVR6STJZVGxuWkhsWmRHNHRORXAzRWhkVFRtbElXVFJwYUVsUVUxWnpaVTFRZW5FeU9UQkJaeG9pUVVSVmVVVkhaRjk2ZUVocGNVeEtWMmxCVTFGc2MwTTFWbUYyY0dObmQwOWhRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gRGF3biBJbmZvVGVrIEluYy4iLCJsaW5rIjoiaHR0cHM6Ly9kYXduaW5mb3Rlay5jb20vZGF3bmluZm90ZWstam9iLW9wZW5pbmdzL2RhdGEtYW5hbHlzdC8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,Connexall,"Toronto, ON, Canada",,"['9 days ago', 'Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InVCMFh3d0dOeDI0QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVkc5eWIyNTBieXhQYm5SaGNtbHZMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRM2hXU0RaSGFtMUdOakpNZUV0c1IyUnJRbU5CWjJKMmFuVk1ZVEZoZEVVMlYzWXlPV3B0YjE5emRGTmtkbGxXWkc5UlJVMDNWWEZrZVhseFJVY3pjMVpCVWxCcVIwZG5NV0p4ZG5Ob2FuRjJlV1V0UWtOaWNVNHdkV1Z6VERRNGVWbFlNSEI0ZUU0dFFqWnRjRmx2T1U1TWIyMDJVemxmVWxkWFpraElNVGhtTWpoVmJGbDVla0ZyV1hOck5uRTVNa1ZsT1Vsd2VXTlpTRzEzRWhkVFRtbElXVFJwYUVsUVUxWnpaVTFRZW5FeU9UQkJaeG9pUVVSVmVVVkhZMFU0ZVcxeU1VZ3liWGhUZEZCNVJqTlJSbk52WDBnMVRqbFladyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQ29ubmV4YWxsIiwibGluayI6Imh0dHBzOi8vd3d3LmNvbm5leGFsbC5jb20vam9iL2RhdGEtYW5hbHlzdC1jYW5hZGEvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Risk and Payments Data Analyst,Points,"Toronto, ON, Canada",,"['7 days ago', 'Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJSaXNrIGFuZCBQYXltZW50cyBEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImZFdFR6aTEtZ2hrQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVkc5eWIyNTBieXhQYm5SaGNtbHZMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRa053UlZoNmFGOHpTRU5hTTJONGIwUkNaSGRNVUhCNlN6UjNUemxZWVVKQ2N6Vm5Uak54VlMwd1RVRkxXVXhGTlRGb1ZtcFpTVlF5TVVvdE1IbHpNMUpLU2xsd1UwSnpRVk53UmpsU1lXcFRVM2N6YmxWclNVSXhjemRpTWtWck1taDRhVXB3YWxCRE1uWmthV2RQYTFWWVF6aE9YMDgwWTNCbWFUbHRiMU5YVTNOSWVEVnVORE10YWpGb2FrMHhjR2hYVjBSWE4yMTJaRTlmZFdsaGFIaHJVbmd4YlV0dWVXOXJXSEpDTTJVMEVoZFRUbWxJV1RScGFFbFFVMVp6WlUxUWVuRXlPVEJCWnhvaVFVUlZlVVZIWm1oWk9XOTFlbGhTY3pZNFdXVTRSRFUwY0V0cVlUTXpPV2xQWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY183IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE1vbnN0ZXIuY2EiLCJsaW5rIjoiaHR0cHM6Ly93d3cubW9uc3Rlci5jYS9qb2Itb3BlbmluZ3Mvcmlzay1hbmQtcGF5bWVudHMtZGF0YS1hbmFseXN0LXRvcm9udG8tMDgtLWUxNmIwYzIyLTgzNTMtNGIyNi05MWEyLTc4MzgyYWE1MjI5YT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Marketing Data Analyst,Xero,"Toronto, ON, Canada",,"['20 days ago', 'Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJNYXJrZXRpbmcgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJ0TUoxZ0pjYkFBRUFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1ZHOXliMjUwYnl4UGJuUmhjbWx2TEVOaGJtRmtZUSIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUkZWMU9IRTJMWHB4TlRKa1VrZzFkVjk2Y0dGNlMxUmZPVXAwVWxwbFIwdHhkMUY1V1RkS1UzYzRUVGQwZUhjMmFYYzRiR2hUWlVoS1JWaEtOMjQ1TW5CelJIRmxTMDVmTUc5cFJqUlZSWHBhTkhCclFVWklUbloxYnpNNFExbHVMVXRuTm1sNVNYSkJaVzFrT0dWb05qY3lVM2swWm5CSFdscEdVa2MzVmpSQ1ZqQjVlVGhEVVVoMWFIUkRNVlYxWkVvMFYzaDVRakl4VVdsalRrdExPWGx2TTJwVmEydGlTVkI0YXpaSGFWOXZFaGRUVG1sSVdUUnBhRWxRVTFaelpVMVFlbkV5T1RCQlp4b2lRVVJWZVVWSFpDMXlVVFZIZEcwMmQxbEdlbVV5YlZOdU1uUm5Vek5FWW5KUlVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMZXZlciIsImxpbmsiOiJodHRwczovL2pvYnMubGV2ZXIuY28veGVyby8yNGZiMDAzOS02ZTEzLTRjMTgtYjY5OC1mMDk3YzMyOGJhYjI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst (Remote),Cognizant Microsoft Business Group,"Toronto, ON, Canada",,"['Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgKFJlbW90ZSkiLCJodGlkb2NpZCI6ImU1U01aTmFJMWs4QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVkc5eWIyNTBieXhQYm5SaGNtbHZMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVGMFZteGlRVUpMZWtWaFNIUmpWVzFLUldKaFNGZzVZMGc1UWtWTWNtSkRZM3A1ZEhWVVh6Qk1TVTlsU0Mxa1ZrMVROR3hEU0cxV2RraGhWMWh6U1dvMlMwNXVNMWx5T1ZOWFdFNXBSVXAyWjB4UlFWVjRNRGsxVDJWd1pXVlpXRkp4V0RkalJUaExUR2xCU1RCYVkzVlhYMFpOVUhCR2EzZEhhRTFJUkc5cFFURXRRVmxPWkV4eFdVTkVSVGhMZWsxVmJXRkZOalJTWVdVeWIwcHVUbmRxYWs1NWR6RlFRbnBDYjFoTE5IQnNWMk5oVG1OblZtSjFYemhUZDFSaWJWQmlRVWxLUVdsT1NWWndFaGRUVG1sSVdUUnBhRWxRVTFaelpVMVFlbkV5T1RCQlp4b2lRVVJWZVVWSFpGVjJNMlpSVTBVd1Uza3dTMWs0ZGprek5VdEdXV3A0YkdweGR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTAiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gR3JlZW5ob3VzZSIsImxpbmsiOiJodHRwczovL2JvYXJkcy5ncmVlbmhvdXNlLmlvL2NvZ25pemFudG1iZy9qb2JzLzQ5ODg3MjcwMDM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Senior Data Analyst,Deloitte,"Toronto, ON, Canada",,"['10 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJsUjFGQzQ3cEhfMEFBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1ZHOXliMjUwYnl4UGJuUmhjbWx2TEVOaGJtRmtZUSIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUTFObFRDMVBRbGMwUlZkRlVYSm1kVjlJZDFGck1XMXFjVGhTUTFJNFRUSnZaVkZ1UjBwaVowMUxWRGhLVFVOd1JXazVTSFpMTFZZMFZITk1lRjlYU0hKbGJEbDNhVzFsTTJaSE1tODVWekJHTkZkWWNHaG9NMEZvY1hoSk5tTm5NVmR6U0RSWmEwd3hXR0ZOWkV3eFJuQTNhVXByWjJ4eFJVc3RlRWxTUm5CMFpHWnJiVmMwWTBsTmNsTmxNMk5wVjJoWFRVdzNVSE15VlVGa1NXSmxWa3BoWVhOT2QxOHhlaTB4Vms5dFNsSlZFaGRUVG1sSVdUUnBhRWxRVTFaelpVMVFlbkV5T1RCQlp4b2lRVVJWZVVWSFkySXdkMjlpVERGS1IwRm1hWE01VkVzeVRsaFdOa3hmTjFsSWR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gRm9vZCBBbmQgQmV2ZXJhZ2UgTWFnYXppbmUiLCJsaW5rIjoiaHR0cHM6Ly93d3cuZmIxMDEuY29tL2pvYnMvam9iL3Nlbmlvci1kYXRhLWFuYWx5c3QtYXQtZGVsb2l0dGUtND91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Commercial Data Analyst,Organigram Inc,"Toronto, ON, Canada",,"['6 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJDb21tZXJjaWFsIERhdGEgQW5hbHlzdCIsImh0aWRvY2lkIjoiVzBRYk1QUzFCV1FBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdWRzl5YjI1MGJ5eFBiblJoY21sdkxFTmhibUZrWVEiLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVUYwVm14aVFYTm9TVFpUUmt0U2NVRndUV2xrVFhGSmJIZHVTMk5xV1hSRGEwMUlkUzFVV0ZjMVZreHFSMDQxU1hORllWSXhjM2RtVTBGNGJrdzNiVlF5WTJadlpqRk9VMmxuUW5vM1RrOWZUa0oxWjFwdGJUSkhTbFoyVVUwMlZGYzRTMk4xTm5OdE1URXhlRVkzYW5OcmQxZGtaRnBQU0d4QlMyTlFhWGxZVVdsSFpITjVkbXh1ZGxoU2FrRTFNMEo0U0hZNGFHSTNVVmxmU2podVlsbDBkR2MzTUhVeGVtTjZaR04wVlRBME16UndiMVYzZEVSR1RrVlJXbU5GWTFZMWEwc3pYMkU0TUdaR0VoZFRUbWxJV1RScGFFbFFVMVp6WlUxUWVuRXlPVEJCWnhvaVFVUlZlVVZIWlhSYVVVNUZTV1pmYm1kbGEyUmxaWEZKYTFoUmJVMDNWbGRLUVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBHaXJsYm9zcyBKb2JzIiwibGluayI6Imh0dHBzOi8vam9icy5naXJsYm9zcy5jb20vY29tbWVyY2lhbC1kYXRhLWFuYWx5c3QtNGJiN2RlZTE0ZjZjP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,Citi,"Mississauga, ON, Canada",,"['15 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IndhSFNxMGMzZGJzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVkc5eWIyNTBieXhQYm5SaGNtbHZMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRak5yZDJwNFZtVjViMHQwUlhKallYQkdZMmQxU1ZWWVFrRlVla2hWWDFsUVVXZFNUa1ZwU0VoRGRXTnFSbTR4U0U5MVZXVjZhV1J5TVc5dVNuUktha1Y2ZDJwNFVERndSMU5hVUc1d1UybFdRVE40ZVV0dVVtc3lWSEIyZVhseWJHZE9aRnBEYm5CRE4zazRiVlZPTFd4V1pXaHZXV05qYW5OVFREQjJaV3RzYjFKM1JYaHNla2xmZVdNNWJXUnJhVkJhVGtKVk9ERklURlJSRWhkVFRtbElXVFJwYUVsUVUxWnpaVTFRZW5FeU9UQkJaeG9pUVVSVmVVVkhaVWsyY25OWE9UQnBRMWRKVGtOTldIaHFXR1JKV21WdFdVVlVVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzE1IiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIExpbmtlZEluIiwibGluayI6Imh0dHBzOi8vY2EubGlua2VkaW4uY29tL2pvYnMvdmlldy9kYXRhLWFuYWx5c3QtYXQtY2l0aS0zMjYzMDk2ODY1P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,Jumio,"Montreal, QC, Canada",,"['Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IllaY2NLZFBUR3I0QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVFc5dWRISmxZV3dzVVhWbFltVmpMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRMUJTV25WSWRGOU1Ra0pQVVUxbVgwaEtOWGxJTFV4a2RUSXpjRWhJY1dFelRHWjZValY1VW5KaGJHcE5TbWQ2Y0V4dmVVUnVkVFJLY0ZabmExVlZVbVJtUTNKVU4wNXJZVUptYjNsSmRXYzBNbk5FWWpSVFRraEJORTQzY0RWNFkxbHJibTR5V2kxNVRUUTRaVGR4ZGpocFFYUm1ibWQxVkdoa1VXcHphWEZpWlVrdE1FeDNNRmxqV21neWFXc3pjSEpEYXpCNWRWVnpYM1ZSRWhkVGRHbElXVGw2U2taeU1tcHhkSE5RZVV4SGVUUkJieG9pUVVSVmVVVkhZM0YwZEVKQmNqSTBiR2xWYVV0TFdWOU9UVzlZYzJzMlZVdGladyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gU3RhcnR1cCBKb2JzIiwibGluayI6Imh0dHBzOi8vc3RhcnR1cC5qb2JzL2RhdGEtYW5hbHlzdC1qdW1pby0yLTM2MjM1ODM/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,Voldex,Anywhere,,"['8 days ago', 'Work from home', 'Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InFSTFFTaWtlbFBzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVFc5dWRISmxZV3dzVVhWbFltVmpMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlSSFl0UXpocVRYbHpZMWd3VkhSUWNUbHFjMGN4VjNGc2IwOVJkVEZLWkhKMmRIQnZkSFo0UW1KTldHMTVSRGxLWDBKRkxXNVhSVEJpWTNadGNHWnlkRU40VlhabWNXOXpURzVpZGxOa1JEYzRXRTkxU1d0cWNYUmZXams0ZVZremVrdEpkM1l6VGtJemJIbzVOM2htT1ZsVVpISldVbmt3Y0daM2NWWXplVzVZTm1Kd2NYRkRURzAyU1U5MWVVOUZaemhSVVc5VllqaGhabmhSRWhkVGRHbElXVGw2U2taeU1tcHhkSE5RZVV4SGVUUkJieG9pUVVSVmVVVkhZM0JDU0U1Qk5tZHBibDlPVFZwMWJYZHlUSE5zWTFObVdISmladyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzMiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gSm9icyIsImxpbmsiOiJodHRwczovL2pvYnMuYXNoYnlocS5jb20vdm9sZGV4LzM2MzgxMTI2LTFhNGEtNDQ5Yi04NGE3LWQzOTA4NDFmY2VlMD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,True,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Transit Data Analyst 🚆🔍,Transit,"Montreal, QC, Canada",,"['CA$45K–CA$60K a year', 'Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJUcmFuc2l0IERhdGEgQW5hbHlzdCDwn5qG8J+UjSIsImh0aWRvY2lkIjoiVmY2VENxQnM4U01BQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdUVzl1ZEhKbFlXd3NVWFZsWW1WakxFTmhibUZrWVEiLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVFqTnhRVzF2TkRWZlMxQkdWVXd5TjNWdVpHZFJURVJHT1RWVlIyNTFOMjUzVTNKc1NYbGhaRjk1Y21aNkxWRkpUR28zVDFWUVNFUndVVkZWYmw5d2MzWlBPVGQwYUZKQ1QwZG1kbTFqTFhVd1QyOWhVRFpwVERWbWNYcDZkMFYxVlhKclJsWlRVV3AxVWxsSWFTMXdOSFV5ZVRGYU5XVkdUMUJVZWtWWFJtdDBkVVUzTUhVeWNuRlhVRlZDVGtjMUxWVjJOWE53V0ZwamNFVlFSMnhrYWxGc1VIRm9TSEZFYW1wa1JqUk1hMjVCRWhkVGRHbElXVGw2U2taeU1tcHhkSE5RZVV4SGVUUkJieG9pUVVSVmVVVkhaRVpUTkVSaVdqY3lVMnhHUzBrNExXUTVkRlpoWTJOME16RTNVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gQW5nZWxMaXN0IiwibGluayI6Imh0dHBzOi8vYW5nZWwuY28vY29tcGFueS90cmFuc2l0LWFwcC9qb2JzLzI0NTY5MDktdHJhbnNpdC1kYXRhLWFuYWx5c3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,AIM KENNY U-PULL,"Laval, QC, Canada",,"['5 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IjV5TlRjeFI1N19vQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVFc5dWRISmxZV3dzVVhWbFltVmpMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlReTB4VkdZM2EwSkdiV014Y0hGVlgxVjNNVWd4Um1aU2FVVnVRVzl6VWpGT1NUZGxTMHRWUWtneU5qbDFSR2x3Y1d0cE9FUnZVMEpRY1MweGQzTjBPVFUyYzJKaFVWWTNla013U2taUk5uVklTRmh4VEZwNGJEUm9hVkZmTjJsZmVEWjZUMUZMWjJOWVZIZHplREZXU2twR2FXbEpSMVpoU1RKMWNtbEdRV0prYm5kWFdIZHZZMEZPWDBWWFRUZGFRMHBrYjB0cGMxY3hXbEpSRWhkVGRHbElXVGw2U2taeU1tcHhkSE5RZVV4SGVUUkJieG9pUVVSVmVVVkhaRXhoUTA0eFZXWk5TRkV3V0VkTGIxOVBlak00T0VacFdHaFpkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly9jYS5saW5rZWRpbi5jb20vam9icy92aWV3L2RhdGEtYW5hbHlzdC1hdC1haW0ta2VubnktdS1wdWxsLTMzNzE1MjkxMjY/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+"Senior Data Analyst, Analytics & Insights (Montreal, QC)",SSENSE,"Montreal, QC, Canada",,['Full-time'],eyJqb2JfdGl0bGUiOiJTZW5pb3IgRGF0YSBBbmFseXN0LCBBbmFseXRpY3MgXHUwMDI2IEluc2lnaHRzIChNb250cmVhbCwgUUMpIiwiaHRpZG9jaWQiOiJtcXBnaE1mQWxxY0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1RXOXVkSEpsWVd3c1VYVmxZbVZqTEVOaGJtRmtZUSIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVRjBWbXhpUkc5WmVtcGZlRzR6VW1GU1ptUjBlbkpFVFdWb05qYzVlRFZIYTNBNVEwUnVYeTFIWW5oeVoxTkRZMnRMUmpkMmRpMHRORTgxTFRZelRFTnpOR2QxUkVnMVlYQm5kMnN5YUVKM1kwMVFkRlZrZDNsS1dFNVJSak42TFVFeWNWZExOVFpaYkUxblVrNDRjVWN3VGpGc1lrUlBNRVJ5V0ZoWGFXVnJPWFppTVhjMFlsUndaa1JKUzB3d2VHVlBOazV1TmxVelUzRktiVXh3WVhka1dXdzVTRTlYUjFOR1ZrbG1ZMjB4V1dRdE5qbDRZaTFmVDNsRWMzWmlaUzFZU21reFRtWkxSV1JpVTJWNk1FNWtabmhNZDNRNWRIaHdORGh0ZDFoS1p4SVhVM1JwU0ZrNWVrcEdjakpxY1hSelVIbE1SM2swUVc4YUlrRkVWWGxGUjJaclFtSnlPVkZIVjNkVFJXTmpWelk1UkdSR1NHRnJSR2RKWTJjIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTbWFydFJlY3J1aXRlcnMgSm9iIFNlYXJjaCIsImxpbmsiOiJodHRwczovL2pvYnMuc21hcnRyZWNydWl0ZXJzLmNvbS9TU0VOU0UxLzc0Mzk5OTg1NTg1MjY3OC1sZWFkLWFuYWx5c3QtYW5hbHl0aWNzLWluc2lnaHRzP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst - Finance,Lightspeed Commerce,"Montreal, QC, Canada",,"['3 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBGaW5hbmNlIiwiaHRpZG9jaWQiOiJGTmlSTTdnWVdTZ0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJV1RXOXVkSEpsWVd3c1VYVmxZbVZqTEVOaGJtRmtZUSIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVRjBWbXhpUVdOcVRISTNjMVZGYVZRdFVGRlJka1ZrWmxaTFdqaEtPVFUxYjAxYVpFbHVkV3BuYm5wMWFVRlFWVE5YUkc0NU1YTkRWRFppYXpadVkyVlBNREJ5WDFsQ1ZUWTFUMTlaZFRkMk1rZFBjWFF0YkZkWlVYVkVRVWsyWjJsV05rVlBjRzVsUkhCeWFVWnRNRVY1VGxweWNuWkhXRzVxYUZsVGVGQnpWblV0VEV4S2RsUXpRa05UWW5GRE5VUk1YMDE0WlZKa01rMVhORkJDVW5aNlNtRjRPRWh6ZW0xMGVFNXdlRTg1WDNjeE9GQldiVUpsWW5sWVNEWjFXalJDZGpsbVVYZGxNVkY0RWhkVGRHbElXVGw2U2taeU1tcHhkSE5RZVV4SGVUUkJieG9pUVVSVmVVVkhabHBQWTFwU2EyeHpRWE5ETWw5dFVVZ3hSRk5QYzBORlpFWndkdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzgiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gR2xhc3Nkb29yIiwibGluayI6Imh0dHBzOi8vd3d3LmdsYXNzZG9vci5jYS9qb2ItbGlzdGluZy9kYXRhLWFuYWx5c3QtZmluYW5jZS1saWdodHNwZWVkLUpWX0lDMjI5NjcyMl9LTzAsMjBfS0UyMSwzMS5odG0/amw9MTAwODMxMjAwNzkzM1x1MDAyNnV0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Global Data Analyst 1,IQVIA,"Montreal, QC, Canada",,"['28 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJHbG9iYWwgRGF0YSBBbmFseXN0IDEiLCJodGlkb2NpZCI6InhDd0xBeVZGcjlRQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVFc5dWRISmxZV3dzVVhWbFltVmpMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV2Y0JDcmNCUVVGMFZteGlRbUYxZFZWdGFsaGtaREZMVUhGVGNUZHlTelJoZWt0cFVWVlhVM0JMUTFCRmJWRnljMVl6VldWRlNXb3hOWFV5Vm1WSFpIVmlNbkp3ZERCcldtbzJRbGRwTkZOMFlVTXdNMVpRVVhKR1MwdE1ZbUo2Y3poM1NGaEJNMUJEVWpGeE1FMHdXRzltVVhwRldsVjRSVkpzWm10T1lYUnhOVXBNVDBvNGEzRktWV2RKTWt4MlNGUlZabEpQYTNselVUVXlTbGN0U2t0ZmQyUnJlVXRQV0d0V1VHdG1hR2RFZFVsaFpXRndTWE5XYTNGSkVoZFRkR2xJV1RsNlNrWnlNbXB4ZEhOUWVVeEhlVFJCYnhvaVFVUlZlVVZIWkdWU2VVaEhZWEJDZWs1bWRYcDFTME5IUW1OeWRtdDZPWGd0WnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBEYXRhWW9zaGkiLCJsaW5rIjoiaHR0cHM6Ly93d3cuZGF0YXlvc2hpLmNvbS9vZmZlci8xOTA0NTIvZ2xvYmFsLWRhdGEtYW5hbHlzdC0xP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,Jose Merciline,"Montreal, QC, Canada",,"['Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IjlBZVhYcTZEdW4wQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lXVFc5dWRISmxZV3dzVVhWbFltVmpMRU5oYm1Ga1lRIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkV1SUJDcUlCUVVGMFZteGlRamMyWmpFNFpGVmZWRWxuUlMxc0xXdDZUREpQVkhJeE5VOVBNaTB4ZDB4UGIzcHJYMFIxVFVGdE9FZERhaTE2V2xKaE4ydGphV2c0WHpsNGREWkNkWFp5VWxkbE9IVnZPR0Y1ZVRNeU1WaFlUVEZmVlRWNFN5MDVSRXhrV0dSeFZrZFJPR1I2UWtZMU0zWmZUVzV2ZG1GUVdFWlZaVlZGWmpCWFdsQlBPRkJFUm1aR2EwbHBabXRSYUZFMVQwOXRjemxIUVRWd2ExWTNjSE5uRWhkVGRHbElXVGw2U2taeU1tcHhkSE5RZVV4SGVUUkJieG9pUVVSVmVVVkhaWEo0YkVSRWRtbG9jVWQyUWpOdGN6RkdXVVphWTNoeFZ6aDVRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEyIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIFppcFJlY3J1aXRlciIsImxpbmsiOiJodHRwczovL3d3dy56aXByZWNydWl0ZXIuY29tL2MvSm9zZS1NZXJjaWxpbmUvSm9iL0RhdGEtQW5hbHlzdC8taW4tTW9udHJlYWwsUUM/amlkPTJjNjk0NjM2YTFlNmU2MWZcdTAwMjZ1dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst I,"Intact, Intact","Montreal, QC, Canada",,"['16 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgSSIsImh0aWRvY2lkIjoiUmZYLXFWZEhDR0FBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdUVzl1ZEhKbFlXd3NVWFZsWW1WakxFTmhibUZrWVEiLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVJGRllZWEJPVG5kcVFrNUlaVGx4VWpoUWJHOXhWWFYyYkdkd1kwbFVXREJMWVZabWVWSkVTbTVtYldwR1dFdGhhekJrY0ZsblpWWTNXV2c1UW5CTFkzRndPVE5zV0dVdFIwMXFhakp4T1VoYU5XRlpSMlpvWVRsNlltSm5YMWx0VEhKUkxWcGxTVEpaVEV4emVXY3lZelk1U2tWa2NFb3dUbGd4UVRGcGNGWldOWGR2TUVoa1EwdFVWako2YlRabk5tNUVUVmhpVWxGVWRFUkNaSEpVVUZVNE0xVklWVWxMU0VGQldYRjRNa2d3RWhkVGRHbElXVGw2U2taeU1tcHhkSE5RZVV4SGVUUkJieG9pUVVSVmVVVkhaRVZXVERGMVVqTnNNSGRaZG5Od2FrRmlabUp5Y3kwd1RHeE5VUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEzIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IGRpcmVjdGx5IG9uIEludGFjdCBDYXJlZXJzIC0gSW50YWN0IEZpbmFuY2lhbCBDb3Jwb3JhdGlvbiIsImxpbmsiOiJodHRwczovL2NhcmVlcnMuaW50YWN0ZmMuY29tL2ludGFjdGluc3VyYW5jZS9jYS9lbi9qb2IvUjEzMjI1OC9EYXRhLUFuYWx5c3QtST91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst - Marketing e-commerce,Laura Canada,"Laval, QC, Canada",,['Full-time'],eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QgLSBNYXJrZXRpbmcgZS1jb21tZXJjZSIsImh0aWRvY2lkIjoiLWQwdlFFeHBUZUlBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVdUVzl1ZEhKbFlXd3NVWFZsWW1WakxFTmhibUZrWVEiLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVUYwVm14aVJHOHpWVGd4ZFdkeU1XZ3llRTVHYlZKZmRrdEdkR05DYmxsSmJURlRkbDlxT1dNeU9UUjROeko1ZW1KbGExRTBibkJvV2pOV2VrODNiMGxXYjNCMVQyNTBVR04wVVMxdWQyZEpiM2hSWlVkUFJUTXRXRm8xYVc5dlltTlJUalp1YzI5UVRrSlNORU10YURsWWVDMTZlWEZKVnpoV2RqTnlWMlZ2UjJaYVNGcFNNVTFQT1hKWGNEQlZXRVpHYkZkbWJUbG1hRTl0YWpnME5tcGpOamxaTlhjMlUyUXRTVmRaUVMxT1RFRlhNbmxqVFRaUmNXeFdZams1TTA1bGNXWnBWWEp3UzBwM0VoZFRkR2xJV1RsNlNrWnlNbXB4ZEhOUWVVeEhlVFJCYnhvaVFVUlZlVVZIWkZsR2RuTnJWMWxvVG5nM2JFSnRZbXBYYm5Cc1NUTkdWVmd3VVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBkaXJlY3RseSBvbiBDYXJlZXIgQmVhY29uIiwibGluayI6Imh0dHBzOi8vd3d3LmNhcmVlcmJlYWNvbi5jb20vZW4vam9iLTIvMzg4MTcvbGF1cmEtY2FuYWRhL2RhdGEtYW5hbHlzdC1tYXJrZXRpbmctZS1jb21tZXJjZS9sYXZhbC1xYz91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,0.0,0.0,0.0,0.0,2022-11-30
+Data Analyst,Netcentric,"Madrid, Spain","lightspeed is seeking a full-time data analyst to join our finance team, as part of our revenue and corporate reporting team. by analyzing and optimizing operational data, you'll accelerate and improve our ability to make decisions by ensuring we have access to timely and accurate information. the ideal candidate is one who is fascinated by interpreting global financial data and discovering the trends that position lightspeed as the leading market competitor.
+
+what you'll be responsible for:
+• interpret large amounts of financial data that provide insight to the business through scalable and repeatable reports
+• manage data accuracy requests from other departments and ad-hoc requests from senior leadsership
+• perform data quality analysis and system performance checks across different systems (erp, crms, billing systems, etc)
+• manual and automated daily data reconciliation/manipulation for resolving quality issues in a timely manner.
+• conduct and support financial reporting... deliverables such as month end/quarter end reports and board deck material.
+• perform quality assurance on new reports and work on different automation projects that improve the flow of data between systems
+• collaborate with other members of the team on various projects to ensure good quality
+
+data being used.
+
+what you'll be bringing to the team:
+• 2-3 years experience in a business analyst, financial analyst, or statistician role
+• bachelor degree in business technology management, finance, statistics, mathematics or any other related fields
+• advanced ms-excel knowledge and sql
+• experience working with salesforce and looker
+
+even better if you have, but not necessary:
+• experience with python
+• ability to multitask and to work in a fast-paced office environment
+• experience with finance statements
+• experience working with a saas and/or fintech environment
+• interest in technology
+
+who you are:
+• ability to multitask and work under pressure with tight deadlines
+• willingness to learn new data systems.
+• ability to take directions and to communicate issues.
+• ability to work independently
+• great attention to detail and accuracy with data
+• you are self-motivated and detail-oriented
+• ability to work in a fast-paced environment and embrace rapidly changing environment with the ability to manage well through ambiguity and complexity
+• strong analytical skills and organizational skills
+
+what's in it for you:
+• opportunity to learn and expand your skill set from industry-leaders in finance and technology, forge wonderful relationships and make your mark within the diverse and inclusive lightspeed family, a true canadian tech success story
+• amazing benefits & perks, including equity for all lightspeeders
+• constant development of both your financial skill-set and business acumen with limitless growth opportunities
+• work hard-play hard! join a dynamic, hard-working team who knows how to celebrate our achievements
+
+come live the lightspeed experience...
+• ability to do your job in a truly flexible environment;
+• genuine career opportunities in a company that's creating new jobs everyday;
+• work in a team big enough for growth but lean enough to make a real impact.
+
+... and enjoy a range of benefits that'll keep you happy, healthy and (not) hungry:
+• lightspeed share scheme (we are all owners)
+• unlimited paid time off policy
+• flexible working policy
+• health insurance
+• health and wellness benefit of $500 per year
+• paid leave and assistance for new parents
+• mental health online platform and counselling & coaching services
+• linkedin learning license
+• volunteer day
+
+to all recruitment agencies: lightspeed does not accept unsolicited agency resumes. if we have not directly engaged your company in writing to supply candidates for a specific vacancy, lightspeed will not be responsible for any fees related to unsolicited resumes.
+
+where to from here?
+
+obviously, this has to be mutually beneficial: we want you to step into a role you love, and we want to offer you a place you're proud to come to every day. for a glimpse into our world check out our career page here.
+
+lightspeed is building communities through commerce, and we need people from all backgrounds and lived experiences to do that. we were founded in 2005, in montreal's gay village and our original members were all part of the lgbtq+ community. the ethos of our business has been about inclusion from the very beginning, and we strive to provide a workplace where everyone belongs.
+
+who we are:
+
+powering the businesses that are the backbone of the global economy, lightspeed's one-stop commerce platform helps merchants innovate to simplify, scale, and provide exceptional customer experiences. our cloud commerce solution transforms and unifies online and physical operations, multichannel sales, expansion to new locations, global payments, financial solutions, and connection to supplier networks.
+
+founded in montréal, canada in 2005, lightspeed is dual-listed on the new york stock exchange (nyse: lspd) and toronto stock exchange (tsx: lspd). with teams across north america, europe, and asia pacific, the company serves retail, hospitality, and golf businesses in over 100 countries","['46,759–85,000 a year', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6Iml0UXpuOEdIRTBzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVRjBWbXhpUW04M1NUSlBjR2cyU25OR1EyeGlRemhuTlhOb1NIQjRjRGRRUnpOTFRtb3dVWEV4VkRabGQwTk5XVVppY1Rkb2JIcDNkazFWUkdsblEwbFdOMlp5VTAxNldXWlFha3BQTW1kbFlUSmpUV1ZyTURFeVVEVnBTakYwY21kcFFtZFpRVXgzWkZsblN5MVRabGRzUTJwNVducEJUMHd6UVhjd2RrUkdTM3BvU1ZGd1MweE9WR0ptUVd3MVVrRkZkMnBYV0hKSFdrdFRlbGRPUjFkQkVoZFJaR2xJV1RaRGNFZzBjWEJ4ZEhOUU1FOXhaamhCY3hvaVFVUlZlVVZIWTBKMU5tbE5Za2hsYW1RNWJrZGFSRVptUkVkSmVUbG1SSGRrVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBBaS1Kb2JzLm5ldCIsImxpbmsiOiJodHRwczovL2FpLWpvYnMubmV0L2pvYi8zMDYwMS1kYXRhLWFuYWx5c3QvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,1.0,0.0,1.0,0.0,0.0,2022-11-30
+Data Analyst,Capchase,"Madrid, Spain","job description
+
+as a leader in the metal recycling industry, aim recycling specializes in buying, valorizing and selling metals for customers located around the world. in a rapidly growing company and reporting to the vice president of sales and purchasing, the role of the data analyst is to support the sales and purchasing teams by analyzing and presenting related information. . the information gathered will support business decisions and the development of the strategic approach concerning sales and purchasing prices.
+
+· support the team as an expert in their business field in making business decisions and in establishing business strategies;
+
+· analyze and interpret sales and purchasing data;
+
+· present recommendation on sales and purchasing pricing;
+
+· perform secondary data research (market information, trends on consumers, etc);
+
+· consolidate information from different systems, from different sites;
+
+· analyze, define and design reports and dashboards to support the sales and... purchasing teams;
+
+· coordinate and monitor quantitative and qualitative studies for aim recycling;
+
+· maintain financial models and reports to track, trend, and forecast future performance
+
+· monitor best practices in their specialty and share them within the organization;
+
+· propose improvements to current processes.
+
+· develop business presentations.
+qualifications
+
+· university diploma in management information systems or a relevant field;
+
+· possess experience in a sales;
+
+· possess 5 years of experience in quantitative data analysis;
+
+· knowledge of microsoft tools and advanced knowledge of excel, cognos and power bi;
+
+· strong communication skills in both french and english (written and spoken)
+
+· advanced knowledge of mathematics and statistics
+
+· able to work with several different databases and to interpret the data;
+
+· strong analytical and synthesis skills;
+
+· possess a good business acumen;
+
+being able to take charge of his skills development.
+
+additional information
+
+you will be working from aim headquarters located in montréal-est and hybrid model based on performance and autonomy. we offer competitive advantage such as : group insurance plan, rrsp, access to a gym, healthy lunch box, free parking, discount on car parts, etc","['Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImpwTHBUMHVkM0h3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVRjBWbXhpUVZkRFpVTm5WMTlzTm5wVlRXSm5lVXgwVURSU1VVOWZVekJJZDBnMlNFWldXVGRhV0hSUVpsUjVWbDlCTUVsRGR6ZGlkemt5Wm5WcGQxTkZXa2sxVDNNd2NVaHlNVkl0UkU0MlUzUjZUM1JHV1c5U09XSmlVMDQyVFcxTldUbEZSR3hyU1ZaRVIyZzVUVWxWU21saFNuRk9NbkpVVTBwaVpXeDFOVTkzY0VoMFRqTjVZMkp1TlY5VVNGaDNaVzlrVm1oS2JTMU1TQzFxYUVsUkVoZExPVEpKV1MxbFUwVnlaVFZ4ZEhOUU5qY3RlVzlCVFJvaVFVUlZlVVZIWlU5TU1UTkVVRFpyUkUxQ09XTjBUMWhFWldaU2RtNHROV3QxWnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6Ii5uRmcyZWJ7Zm9udC13ZWlnaHQ6NTAwfS5CaTZEZGN7Zm9udC13ZWlnaHQ6NTAwfUFwcGx5IG9uIExldmVyIiwibGluayI6Imh0dHBzOi8vam9icy5sZXZlci5jby9jYXBjaGFzZS8yMDgyMGEwYy1kNTBjLTQzMmMtOTE2NS1kNzNiODI3NjdlODI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,0.0,0.0,1.0,1.0,0.0,2022-12-01
+Data Analyst,Stream Hatchet,Spain,"lightspeed is seeking a full-time data analyst to join our finance team, as part of our revenue and corporate reporting team. by analyzing and optimizing operational data, you'll accelerate and improve our ability to make decisions by ensuring we have access to timely and accurate information. the ideal candidate is one who is fascinated by interpreting global financial data and discovering the trends that position lightspeed as the leading market competitor. what you’ll be responsible for: interpret large amounts of financial data that provide insight to the business through scalable and repeatable reports manage data accuracy requests from other departments and ad-hoc requests from senior leadsership perform data quality analysis and system performance checks across different systems (erp, crms, billing systems, etc) manual and automated daily data reconciliation/manipulation for resolving quality issues in a timely manner. conduct and support financial reporting deliverables such... as month end/quarter end reports and board deck material. perform quality assurance on new reports and work on different automation projects that improve the flow of data between systems collaborate with other members of the team on various projects to ensure good qualitydata being used. what you’ll be bringing to the team: 2-3 years experience in a business analyst, financial analyst, or statistician role bachelor degree in business technology management, finance, statistics, mathematics or any other related fields advanced ms-excel knowledge and sql experience working with salesforce and looker even better if you have, but not necessary: experience with python ability to multitask and to work in a fast-paced office environment experience with finance statements experience working with a saas and/or fintech environment interest in technology who you are: ability to multitask and work under pressure with tight deadlines willingness to learn new data systems. ability to take directions and to communicate issues. ability to work independently great attention to detail and accuracy with data you are self-motivated and detail-oriented ability to work in a fast-paced environment and embrace rapidly changing environment with the ability to manage well through ambiguity and complexity strong analytical skills and organizational skills what’s in it for you: opportunity to learn and expand your skill set from industry-leaders in finance and technology, forge wonderful relationships and make your mark within the diverse and inclusive lightspeed family, a true canadian tech success story amazing benefits & perks, including equity for all lightspeeders constant development of both your financial skill-set and business acumen with limitless growth opportunities work hard-play hard! join a dynamic, hard-working team who knows how to celebrate our achievements come live the lightspeed experience... ● ability to do your job in a truly flexible environment; ● genuine career opportunities in a company that’s creating new jobs everyday; ● work in a team big enough for growth but lean enough to make a real impact. ... and enjoy a range of benefits that’ll keep you happy, healthy and (not) hungry: ● lightspeed share scheme (we are all owners) ● unlimited paid time off policy ● flexible working policy ● health insurance ● health and wellness benefit of $500 per year ● paid leave and assistance for new parents ● mental health online platform and counselling & coaching services ● linkedin learning license ● volunteer day to all recruitment agencies: lightspeed does not accept unsolicited agency resumes. if we have not directly engaged your company in writing to supply candidates for a specific vacancy, lightspeed will not be responsible for any fees related to unsolicited resumes. where to from here?obviously, this has to be mutually beneficial: we want you to step into a role you love, and we want to offer you a place you’re proud to come to every day. for a glimpse into our world check out our career page here. lightspeed is building communities through commerce, and we need people from all backgrounds and lived experiences to do that. we were founded in 2005, in montreal’s gay village and our original members were all part of the lgbtq+ community. the ethos of our business has been about inclusion from the very beginning, and we strive to provide a workplace where everyone belongs. who we are: powering the businesses that are the backbone of the global economy, lightspeed's one-stop commerce platform helps merchants innovate to simplify, scale, and provide exceptional customer experiences. our cloud commerce solution transforms and unifies online and physical operations, multichannel sales, expansion to new locations, global payments, financial solutions, and connection to supplier networks. founded in montréal, canada in 2005, lightspeed is dual-listed on the new york stock exchange (nyse: lspd) and toronto stock exchange (tsx: lspd). with teams across north america, europe, and asia pacific, the company serves retail, hospitality, and golf businesses in over 100 countries","['11 hours ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IlMwSlFRS3ZXNE00QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVRjBWbXhpUkRKM2NrUXdUR1pYTkRsMWJ6aHJlSEkwU0ZKaVVYQmlRbVpGWjFsRFlYaDNWa052Y0dsNE5YcGtZbEZYV1dOcmNEYzBUWEZ0VkVOc2NuUlVjR3h3UmtSYVNWbHRlR2h4VDA5dWRqQnRlRWRGVVRZMVVWaG1jM1V3Wm01cVJYWjZSbTQ0ZUd4MVpEVlhRMWhpWDJablNGUnJjWEJTVnpoNmNsQlJTV1ZGV2tSbGVtTjRkVmRKY3pac1luQnFia2RHVG1saGEzTnZVbGxRTjNKUkVoZExPVEpKV1MxbFUwVnlaVFZ4ZEhOUU5qY3RlVzlCVFJvaVFVUlZlVVZIWmpkdlFsbFJhV3BqVTNOVFpIUkthbHBhZEY4eVQxVTVWM1ZaVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18yIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIFN0YXJ0dXAgSm9icyIsImxpbmsiOiJodHRwczovL3N0YXJ0dXAuam9icy9kYXRhLWFuYWx5c3Qtc3RyZWFtLWhhdGNoZXQtMzkyNzcxOT91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,1.0,1.0,1.0,0.0,0.0,2022-12-01
+People Data Analyst,Cabify,"Madrid, Spain","data analyst
+• 3080 boul. le carrefour, laval, qc h7t 2r5, canada
+• full-time
+company description
+get ready for an immersion in the automotive world. at kenny u-pull, we give vehicles a second life by offering our customers the opportunity to pick up their replacement parts themselves for a fraction of the manufacturer's price, in a safe, clean and environmentally responsible environment.
+join our team and become our customers' ally in providing the best service!
+job description
+as a data analyst, you will contribute to the development of tools and methods to collect, compile and model transactional data. you will be part of a team whose mandate is to support the development of the organization's business intelligence skills. these skills will then help decision makers in their decision making. more specifically, your role will be to:
+• analyze and provide opinions based on existing information;
+• develop recommendations and implementation plans;
+• diagnose data related issues;
+•... provide support to users and help them interpret the data;
+• develop new data-related knowledge;
+• design reports and dashboards to meet business needs;
+• work closely with various technology teams.
+qualifications
+• bachelor’s degree in business, engineering, computer science, supply chain management, statistics, mathematics or related field;
+• a minimum of two years of relevant experience;
+• strong interest in data analytics, data transformation and problem-solving;
+• experience in business intelligence and data management;
+• advanced knowledge of microsoft excel (pivot tables);
+• experience with cubes, data analysis tool, hypothesis testing, linear regression, qualitative and quantitative forecasting methods.
+• knowledge of excel (advanced), sql, entity-relationship diagrams and dimensional data models;
+• knowledge of visualization tools such as cognos or power bi (an asset);
+• knowledge of vba, r, or python (an asset));
+• facility with databases management;
+• knowledge of the operation and supply chain;
+• bilingualism (english, french, spoken and written)
+additional information
+• hybrid model, 3 days at our office in laval, 2 days remotely
+• group insurance: life, disability + medical, dental, eye care and more!
+• group rrsp with employer contribution!
+• career development opportunities!
+job location
+data analyst
+• 3080 boul. le carrefour, laval, qc h7t 2r5, canada
+• full-time",['Full-time'],eyJqb2JfdGl0bGUiOiJQZW9wbGUgRGF0YSBBbmFseXN0IiwiaHRpZG9jaWQiOiJrWnpKVU9vNkYza0FBQUFBQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJWlEyOXRiWFZ1YVhSNUlHOW1JRTFoWkhKcFpDeFRjR0ZwYmciLCJnbCI6InVzIiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVUYwVm14aVFuVnNOWGR1UVRab0xTMXNPRkp6TkdoR2VuTjNjRE5tZFRKSVRESXdZMU5ZZWxoR2RtVk5ORmw0ZGpSemFHcHpUWGRvYzBkRFh6QTROM2hzV1ZaRVVEaFpjMGQwZFc0eWFsZFJjRmx3T1dOVGRYWktTalo2WlhKUU9FTkRaall6VG01S1RuTk1iemRXV0MxNGNUbDBSVUoyVkZrNVlUaEhXVFpwYVVWNFlVTjJTREpSYTNJdE1UWTJaVU5GWW05clJYZHBhMFJhVVZrMVNIQlJSM0IyVVV4R2JVdGZZMDQzTFhCTVVsVkVPVTFSRWhkTE9USkpXUzFsVTBWeVpUVnhkSE5RTmpjdGVXOUJUUm9pUVVSVmVVVkhaVkIwYm1WMU5GUmpWbkI1VUc1VVZEbEtTMVJmVVVSV1ExOU1kdyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzciLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gR3JlZW5ob3VzZSIsImxpbmsiOiJodHRwczovL2JvYXJkcy5ncmVlbmhvdXNlLmlvL2NhYmlmeS9qb2JzLzYzMjQyMDkwMDI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,1.0,0.0,1.0,1.0,0.0,2022-12-01
+Data Analyst,Netcentric,"Madrid, Spain","under the guidance of the senior manager of digital communications, this role supports the team in making strategies based on data and insights. the digital marketing data analyst is as comfortable working with analytics tools as they are presenting to a group of people. one of the role’s main goals is to create processes to collect and provide marketing data to the supporting teams. in addition to working on data development and reporting, the data analyst will also build dashboards and help advise marketing strategies for the web and crm teams by providing insights and relevant data needed to develop campaigns. are you game ?
+
+in this role, you will
+• optimize dashboard templates for digital marketing data reporting. this includes reporting for both web and crm campaigns
+• collect and provide insights on website performance data (traffic volume, engagement level, sales performance, etc.)
+• use data, assist in building web and crm marketing strategies and provide insights to inform... tactics.
+• support the web team in implementing tracking features for websites. this includes utm link management and managing bitly links.
+• support the web team in interpreting data from website activity & optimizing data for future web integrations.
+• support the crm team in interpreting data from email campaign activity and optimizing future campaigns
+• collaborate with player insights team to ensure all marketing data is shared and stored while ensuring one source of truth within a data warehouse
+• develop and suggest tools for better analyses and tracking purposes. ensure all tools apply to bhvr standards and suit the needs of the team
+• develop reporting processes to ensure cross functional teams are receiving regular and ad hoc reports as needed.
+• rain and support colleagues in using data tools to reduce manual report creation
+• manage and maintain partnerships with analytics suppliers to ensure all data sources are up to date (ie. bitly, supermetrics etc.)
+• assist the web project manager with seo strategies based on google analytics and trends.
+
+what we're looking for
+• minimum 3 years experience in data management and analytics;
+• great verbal and written communication skills;
+• excellent project management skills;
+• ability to manage several projects at once;
+• affinity for data and producing reports;
+• experience in the gaming industry, an asset.
+
+dans ce role, vous devrez
+• optimiser les modèles de tableaux de bord pour les rapports de données de marketing numérique, pour les campagnes web et crm ;
+• recueillir et fournir de l’information pertinente au sujet des données relatives à la performance du site web en termes de volume du trafic, du niveau d’engagement, de la performance des ventes etc.);
+• utiliser les données, contribuer à l'élaboration de stratégies marketing web et crm et fournir de l’information pertinente permettant de développer des tactiques;
+• soutenir l'équipe web dans la mise en œuvre des fonctions de suivi pour les sites web (y compris la gestion des liens utm et bitly) ;
+• soutenir l'équipe web en interprétant les données issues de l'activité du site web et en optimisant ces données pour les futures intégrations web;
+• soutenir l'équipe crm dans l'interprétation des données relatives aux activités des campagnes de courrier électronique et dans l'optimisation des futures campagnes;
+• collaborer avec l’équipe player insights pour faire en sorte que toutes les données marketing soient partagées et stockées, tout en assurant une source de référence unique au sein d'un entrepôt de données;
+• développer et proposer des outils pour une meilleure analyse et un meilleur suivi, et assurer qu’ils soient tous conformes aux normes de bhvr et répondent aux besoins de l'équipe;
+• développer des processus entourant la production et l’envoi de rapports afin d’assurer que les équipes transversales les reçoivent régulièrement ou de façon ad hoc selon leurs besoins;
+• former et aider vos collègues à utiliser les outils de données afin de réduire la création manuelle de rapports;
+• gérer et entretenir les partenariats avec les fournisseurs de solutions d’analytique pour assurer que toutes les sources de données soient à jour (bitly, supermetrics, etc.);
+• soutenir le chef de projet web dans l'élaboration de stratégies de référencement basées sur google analytics et les dernières tendances dans le domaine.
+
+ce que nous recherchons
+• au moins 3 ans d’expérience en gestion et analyse de données;
+• excellentes aptitudes pour la communication verbale et écrite;
+• excellentes aptitudes en gestion de projet;
+• capacité à gérer plusieurs projets à la fois;
+• affinité pour les données et la production de rapports;
+• expérience au sein de l'industrie du jeu, un atout;
+• expérience avec google analytics, google tag manager, google data studio, google ads, gamesight, facebook ads manager, youtube data studio, supermetrics et bitly, un atout.
+
+sous la direction du directeur principal des communications numériques, tu soutiendras l'équipe dans l'élaboration de stratégies fondées sur une compréhension approfondie des données. ton objectif principal sera de créer des processus de collecte de données marketing afin de les transmettre aux équipes de soutien. tu seras également responsable des tableaux de bord et de la formulation de recommendations stratégiques aux équipes web et crm en leur fournissant les données et les analyses nécessaires à l’élaboration de leurs campagnes ! es tu games ","['46,759–85,000 a year', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6Iml0UXpuOEdIRTBzQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUlCQ3FJQlFVRjBWbXhpUVVsT1ZYWk9aVkkwTm0xTFRGaEVSVmQxWHpGeVkwTklRVWc1WTJwNWJGTk9NQzFuTjFCcE0wMXJSbFl5V1VNellteEhWMGcyU0dObFRHSmhVSFIxVmxKc2RHb3hNbmN5VjJSeE1TMWZkMUo1TTNsamJIZ3hNSFZMVG5RM2N6UkthMUYwWkVRNFN6bERiWEJCZUhCMmJXRmFjalIyTmpSTVJqUmpRVU56VEc1TVZFSm9aRlEwWDBvelNqVndhMnhUU1VOdFZWOTJRMFp1UVRoUkVoZExPVEpKV1MxbFUwVnlaVFZ4ZEhOUU5qY3RlVzlCVFJvaVFVUlZlVVZIWmxoVGFVUm9SVmhEWDFGMFZVTkJSbmsxVGpZMGIzWlpaalZzVVEiLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBBaS1Kb2JzLm5ldCIsImxpbmsiOiJodHRwczovL2FpLWpvYnMubmV0L2pvYi8zMDYwMS1kYXRhLWFuYWx5c3QvP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0.0,0.0,1.0,0.0,1.0,2022-12-01
+Data Analyst,Publicis Groupe,"Madrid, Spain","help us boldly shape retail in canada
+
+canadian tire corporation’s (ctc) rich heritage of serving canadians from coast-to-coast dates back to 1922. our vision is to become the #1 retail brand in canada and we are focused on innovating and making important investments in our business, especially when it comes to our people. to reach our goal, we need the best talent to help us evolve and drive change across the business – and boldly help shape canada’s retail industry. as we strive to be at the forefront of a complex and vastly changing retail industry, it is an exciting time to join the canadian tire family of companies.
+
+joining the canadian tire team in the fgl sports division, you will be working as part of a team of data management analysts. your role as a data analyst will be to support the data architecture in the development of various query requirements across multiple enterprise database sources. you will design, implement and manage the structure of reporting systems. the... data analyst is responsible for data extraction initiatives from our various systems, validation with business departments for ad hoc requests and project developments.
+
+main responsibility
+support various business requests by being responsible for the optimization and creation of sql queries. design, build, deliver and manage models and reports using excel and power bi present data from multiple enterprise database sources. participate in the data architecture and data solution design of our various systems. collaborate with analysts in the development of connections and extractions with our various databases ((datalake, dynamics ax or dynamics 365, azure, i hub ingestion). support data validations during the integration of systems under different platforms analyze impacts in existing systems during change requests; analyze and collaborate on structural specifications for new software and applications develop an in-depth understanding of the various processes support process documentation and provide automation recommendations participate in workshops to gather requirements and provide recommendations for reporting and bi solutions convert processes into functional requirements clearly and understandable to developers and project teams. leverage knowledge of specific data products available as well as visualization capabilities to improve requirements and offer relevant suggestions to stakeholders. prioritize tasks with the team and ensure the availability of forward-looking roadmaps for features to be delivered on data products under the team's purview. collaborate with the business intelligence analysts and it department in the realization of various requirements, as well as maintenance and evolution activities.
+
+your qualifications and skills
+bachelor's degree in quantitative discipline (mathematics, statistics, computer science, economics) working knowledge of ai and data warehouse concepts and terminology; excellent excel skills, especially with the use of advanced formulas and macros. strong knowledge of sql, etl, power bi (report design & visualization) and microsoft azure. experience in microsoft dynamics ax or dynamics 365 (asset) or knowledge of thoughtspot (asset) experience in analysis, modeling, verification, and development of business and technical requirements methodologies. ability to establish, document and communicate data modeling standards, policies, guidelines, and governance structures. ability to prioritize projects within timelines. self-motivated and able to work independently excellent oral and written communication skills with the ability to relate and describe situations with data; ability to explain complex phenomena clearly and concisely to any type of hearing thorough person with a passion for quality and innovative technologies. excellent command of french and english, both oral and written
+
+#li-mm2",['Full-time'],eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IlBLZ3RoZzFubUR3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVRjBWbXhpUWtOSWJFdHhRMmMwYTBOcFYwZGpVMWxEUVdGYWJUVkxOR3RET0VSTlNHTjVOMEp3ZUZsa2FFZEZNMmRrU0VGVVgyNXVVVXhHTTNaWVVVTkhUVVpLVVc1TmVVTlpVRXRVWjA1VVdGbHNRek5rUzNCT01FUXpVbVpZVlcxZmJGOVZPVVJEVVdVMVNUZDNTakZJT1RsaFpFTmhWV3RFTmxKVFoxVm1NVE5EU3pRdGNuQjZRM0p3UmswME1HZG9SR1J0ZGtod1UxQXdPVVF6VGw5cGFVZDRaRXBOU1ZSbk1FWkVNRE5mWWpGS2NFbE5FaGRMT1RKSldTMWxVMFZ5WlRWeGRITlFOamN0ZVc5QlRSb2lRVVJWZVVWSFpVTlVhMU5CTTFCMk0yZG1Oa3hoUmpnNVEycE1SMDB5T0hCcGR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gU21hcnRSZWNydWl0ZXJzIEpvYiBTZWFyY2giLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLnNtYXJ0cmVjcnVpdGVycy5jb20vcHVibGljaXNncm91cGUvNzQzOTk5ODU4ODgzNzkxLWRhdGEtYW5hbHlzdD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0.0,1.0,1.0,1.0,0.0,2022-12-01
+Junior Data Analyst (Python / Power BI) - French Speaker,IQVIA,"Madrid, Spain","company description
+
+honeycomb, a division of american iron and metal inc. (aim), is focused on purchasing, processing and recycling catalytic converters. the platinum group metals collected are then sold to smelters where the metals are purified and reused in various catalyst applications. honeycomb is headquartered in laval, quebec with subsidiaries in cleveland, ohio (honeycomb usa) and phoenix, az (phoenix group metals).
+
+job description
+
+as a data analyst, you will help turn data into insights for management decisions. your role covers analyzing and helping diagnose issues related to the data, providing opinions in accordance with the existing data and information, and developing recommendations and implementation plans.
+
+main responsibilities
+• solve problems and help users interpret data
+• design reports and dashboards to provide quality information and meet managers' requirements
+• assist with daily database maintenance
+• identify, analyze and interpret trends or patterns in... complex data sets using a wide variety of statistical techniques
+• filter and “clean” data by locating and correcting outliers
+• work with management to prioritize business and information needs
+• locate and define new process improvement opportunities
+• build strong relationships with peers and the ability to work with cross-functional teams
+
+qualifications
+• bachelor’s degree in statistics, mathematics, or two years relevant experience
+• strong analytical and problem-solving skills with the ability to collect, organize and disseminate significant amounts of information with attention to detail and accuracy
+• adept at database queries, writing reports and presenting results
+• experience in business intelligence and data management
+• proven expertise with microsoft excel
+• knowledge of visualization tools
+• bilingualism (french and english, spoken and written).
+
+specific knowledge
+• knowledge of sql, entity relationship diagrams and dimensional data models
+• knowledge of powerbi
+• knowledge of python
+• knowledge of postgres (an asset)
+• facility with databases management
+
+additional information
+
+what we offer
+• full-time, permanent position
+• possibility of hybrid teleworking (after the integration period)
+• group insurance after 3 months
+• group rrsp after 6 months
+• free parking
+• subsidized lunches
+• gym on site
+• social events (bbq, taffy on snow, draws, etc.)
+
+american iron and metal inc. is proud to be an equal opportunity employer committed to a diverse and inclusive workplace. we ensure that all individuals are treated equally, respectfully and with integrity. we welcome resume submissions from all qualified applicants and thank you for your interest in american iron and metal inc. if accommodations are required, please attach the request with your resume. all information received will be addressed confidentially. we thank all applicants for their interest but only candidates selected for an interview will be contacted","['3 days ago', 'Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YSBBbmFseXN0IChQeXRob24gLyBQb3dlciBCSSkgLSBGcmVuY2ggU3BlYWtlciIsImh0aWRvY2lkIjoiaHk1M19kLWVnZDRBQUFBQUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSVpRMjl0YlhWdWFYUjVJRzltSUUxaFpISnBaQ3hUY0dGcGJnIiwiZ2wiOiJ1cyIsImhsIjoiZW4iLCJmYyI6IkVxRUNDdUlCUVVGMFZteGlSRXBtYVdveWIzZzFYMUZMZURGWFJraFNOa2hTU1MxVVozQnhjM3BXZHpSUFZWOVRTMmR4TFdKcE9TMVRiMFptVGxodVgwaHpUMkp0VG5vd2F6SXlOVEpKZG5ORFVETllZWFZ5WVRkd1lsRXRiME5sZDA4Mk0zQjVWbVpHVjNkSldHbG5SbXAwV0RWU2VUWlhOWHB5WmpSMFYxTlFWWEpyZFU5Vk9HbDFNVTU1UkhaVFkzZDBSR1ZQYUdaaFkydEtZVlZ1YWxOMk4yd3dUMFIwY201SGQwZGhPRnA1TldONlQybHZSWGw2ZVRCSk1ETXdOVE5zZVRoMGVVRnRaa2x6UkVrMFdGbElObEZyTURGc2F6UjFNRzAzWDE5ZlFXcFFNakIxWnhJV2FWSmxTMWsxTjB0SlNrOXhNVkZJVm5OTU1uZERVUm9pUVVSVmVVVkhabWxYTlhsTVRYTnRZamswT1RKWFEwUlVNRU5mZDJWS1NuaHNVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gSXF2aWEiLCJsaW5rIjoiaHR0cHM6Ly9qb2JzLmlxdmlhLmNvbS9qb2IvbWFkcmlkL2p1bmlvci1kYXRhLWFuYWx5c3QtcHl0aG9uLXBvd2VyLWJpLWZyZW5jaC1zcGVha2VyLzI0NDQzLzQwNzI3NzA5NTg0P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,1,0,1,0,0,2022-12-02
+Data Analyst,Dynatrace,Spain,"company description
+
+are you cut out for kenny u-pull?
+
+get ready for an immersion in the automotive world. at kenny u-pull, we give vehicles a second life by offering our customers the opportunity to pick up their replacement parts themselves for a fraction of the manufacturer's price, in a safe, clean and environmentally responsible environment.
+
+join our team and become our customers' ally in providing the best service!
+job description
+
+as a data analyst, you will contribute to the development of tools and methods to collect, compile and model transactional data. you will be part of a team whose mandate is to support the development of the organization's business intelligence skills. these skills will then help decision makers in their decision making. more specifically, your role will be to:
+• analyze and provide opinions based on existing information;
+• develop recommendations and implementation plans;
+• diagnose data related issues;
+• provide support to users and help them... interpret the data;
+• develop new data-related knowledge;
+• design reports and dashboards to meet business needs;
+• work closely with various technology teams.
+qualifications
+• bachelor’s degree in business, engineering, computer science, supply chain management, statistics, mathematics or related field;
+• a minimum of two years of relevant experience;
+• strong interest in data analytics, data transformation and problem-solving;
+• experience in business intelligence and data management;
+• advanced knowledge of microsoft excel (pivot tables);
+• experience with cubes, data analysis tool, hypothesis testing, linear regression, qualitative and quantitative forecasting methods.
+• knowledge of excel (advanced), sql, entity-relationship diagrams and dimensional data models;
+• knowledge of visualization tools such as cognos or power bi (an asset);
+• knowledge of vba, r, or python (an asset));
+• facility with databases management;
+• knowledge of the operation and supply chain;
+• bilingualism (english, french, spoken and written)
+
+additional information
+• hybrid model, 3 days at our office in laval, 2 days remotely
+• group insurance: life, disability medical, dental, eye care and more!
+• group rrsp with employer contribution!
+• career development opportunities","['4 hours ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6IjJsS0xfN0xmdWxFQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUVCQ3FJQlFVRjBWbXhpUkZkQ1dHSkVOVVJETjFGVFZFVnZRazlxZVhwR1RtNDNjbFJpV25GTVQxZ3lWMnR5Y1U0MmJuZzRkR1pvUWkwME9UaHFlbFJ3V2s1cGNFMVFUR05xTUhCMlRrTldRMGQwWVRobGQwNTFkREZEWjJ0cVpYSjFWa3AzU1hock1UazBUM2hTVFZCT1VEQXlha2h1YVZwUlRHMDVlRmhIZG5oVVV6ZFdNRnBJY21sT1dYSXpiVGxsWVhaT1NrVjFPVnAwZVVKeWMyaFVOa2xVY2tKQkVoWnBVbVZMV1RVM1MwbEtUM0V4VVVoV2Mwd3lkME5SR2lKQlJGVjVSVWRsVEVwRU4wUmZRMnB6YTI1Rk5XMWZiMkZEYVhoelFYbzVkMUpCIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBTbWFydFJlY3J1aXRlcnMgSm9iIFNlYXJjaCIsImxpbmsiOiJodHRwczovL2pvYnMuc21hcnRyZWNydWl0ZXJzLmNvbS9EeW5hdHJhY2UxLzc0Mzk5OTg2OTA5NjQwMS1kYXRhLWFuYWx5c3Q/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,1,0,1,1,0,2022-12-02
+Data Analyst,Capchase,"Madrid, Spain","company descriptionthis is a remote role, employees are welcome to work from anywhere in canada.ssense (pronounced [es-uhns]) is a global technology platform operating at the intersection of culture, community, and commerce. headquartered in montreal, it features a mix of established and emerging luxury brands across womenswear, menswear, kidswear, and everything else. ssense has garnered critical acclaim as both an e-commerce engine and a producer of cultural content, generating an average of 100 million monthly page views. approximately 80% of its audience is between the ages of 18 to 40. it is privately held and has achieved high double digit annual growth and profitability since its inception.job descriptionreporting to the enterprise data operations manager, the senior data analyst is responsible for translating business requirements into technical reporting requirements, helping generate valuable insights, supporting decision making and enabling various projects. the ideal... candidate has an analytical mindset and is passionate about business analysis, visualisation and extracting insights from data. responsibilitiesbusiness reporting - 50%effectively communicate with business and product teams to capture their reporting needs and design a reporting and dashboarding strategy that meets their current as well as anticipated future data interrogations with an aim to increase the consumer’s autonomy and self-service abilities.build, develop, and maintain reports, dashboards and data automation systems.proactively manage stakeholder expectations, manage escalations and resolve issues in a timely manner.participate in bi platform and bi tools integration projects.migrate saas, excel sheets and csv reports to interactive and automated dashboards.data analysis - 50%develop deep expertise in business data. analyse and trace its data lineage from its source, through its transformations, to its final usage in reports. evaluate and improve the data quality and completeness of the data available in the enterprise data lake.in collaboration with domain experts, design, document and implement metrics, kpis and data calculations.develop specification documents to guide the data ingestion, validation, transformation and aggregation processes for new data sources. support data engineers in the implementation of data pipelines and participate in the validation processes.contribute to the data cataloging effort and ensure adherence to data governance processes.collaborate with software/data architects, data engineers, business analysts, data scientists to drive key strategic data initiatives for the improvement of data lake and analytics infrastructureoversee the on-boarding of new team membersqualifications bachelor’s degree in engineering, mathematics, statistics, or related field a minimum of 6 years experience in analytics, business intelligence, data engineering, or a similar role.experience using data visualisation to communicate insights effectively to a variety of stakeholders.6+ years of experience working with sql and relational database is a must3+ years of experience with data visualisation tools (tableau, aws quicksight, etc), one tool is must experience with other data manipulation technology an assetstrong written and verbal communication skills in french & englishskillsstrong organizational and time-management skillsexcellent communication and leadership skillscapacity to synthesize and simplify complex informationhighly analytical and detail orientedcreative thinker with excellent problem solving abilitiesteam player with solid interpersonal skillsadditional informationworld class technologytechnology is at the core of everything we do at ssense. driven by an engineering mindset and a problem-solving attitude, we blend fashion with technology to deliver an unparalleled experience to our customers as we build seamless, custom solutions to deliver the ssense offering. world class teamthe ssense tech team is responsible for an international headless commerce platform. working in an agile environment, our squads are made up of experienced innovators in product management, qa, design, devops, software development, machine learning, data engineering, and security. headquartered in montreal, our technology organization has been growing at a rate of 2x year-over-year and is doubling once again in 2021 as we expand across canada, us, and europe. world class platformthe ssense platform runs on amazon web services making use of serverless microservices across web, mobile and app. our event-source architecture already achieves over 10,000 requests / second and growing at an unmatched pace, currently unseen across the industry. our data-driven culture of innovation empowers every product team across the tech organization to explore building, testing and learning with the latest in machine learning techniques. our automated continuous improvement devops model (making use of both blue / green and canary deployments) results in an average of 50 production releases every day. read more about us on our ssense tech blog","['Full-time', 'No degree mentioned']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImpwTHBUMHVkM0h3QUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUVCQ3FJQlFVRjBWbXhpUkVrMVMwRmpOM1I1U2xneGFHcHRNMVpJYjNkRlgwVlhXVnBJZUhCaFJIUjJPWFJWY0hSQ01WSTFRVXRtVkZaaGVUaGhNM1pNYUd0dkxTMVlVbUZyVjJ4M2FUTktTbk5NYkRSUFZWVkhPVm93YWpWMVdrOVViVzF0VWpaVGNVWXlOMjlOVVU5bFpUSjRSemROTFZJNVpISXRaMkZwTFdSRWRGRkpZalZoWXkxTFFYWlpjR1ZMY1ZCS05qRkNVM3AxUVZCSWFub3dZVFExUm01M0VoWnBVbVZMV1RVM1MwbEtUM0V4VVVoV2Mwd3lkME5SR2lKQlJGVjVSVWRqWTFobmJXWjJSSHBGY1RaemNVSndaVTB5V0VKd2VGUmZkR2xCIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMZXZlciIsImxpbmsiOiJodHRwczovL2pvYnMubGV2ZXIuY28vY2FwY2hhc2UvMjA4MjBhMGMtZDUwYy00MzJjLTkxNjUtZDczYjgyNzY3ZTgyP3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0=,,0,1,1,0,1,2022-12-02
+Data Analyst,ING,"Madrid, Spain","hi there! thanks for stopping by 👋
+
+are you actively looking for a new opportunity? or just checking the market? well… you might just be in the right place!
+
+lightspeed is seeking a full-time data analyst to join our growth marketing team. with ownership of reporting and analysis for marketing data, you'll conduct analysis and support our key lead generation activities. if you love digging into the root causes of problems, finding patterns, and working with multiple teams, then this is the role for you.
+
+what you’ll be responsible for:
+• lead the development of new reporting and dashboards to analyze our marketing effectiveness and support our full funnel programs.
+• generate reports on marketing kpis like leads, conversion rates, website traffic and content engagement on a weekly and monthly basis
+• structure complex, ambiguous marketing questions and leverage analytical skill set to drive insightful analyses.
+• evaluate and improve data quality, completeness, compliance and... cleanliness in google analytics, salesforce, and other systems.
+• focus on continuous improvement of existing processes and collaborate with marketing to create new processes with a focus on automation and acceleration of the business.
+
+what you’ll be bringing to the team:
+• advanced sql skills (asset: experience with bigquery and gcp)
+• strong business acumen and ability to translate business needs into data requirements
+• advanced knowledge of looker or other bi tools like tableau or power bi
+• strong expertise with data analysis
+• experience with google analytics, or other web analytics tool
+• knowledge of conversion rates, web metrics and other marketing metrics
+
+even better if you have, but not necessary:
+• experience with python, r or other programming language
+• experience in digital marketing
+• experience in a/b testing
+
+who you are
+• great at understanding business context
+• willingness to learn new data systems
+• ability to take directions and to communicate issues
+• ability to work independently
+• great attention to data accuracy and integrity
+• you are self-motivated and detail-oriented
+• ability to work in a fast-paced environment and embrace rapidly changing environment with the ability to manage well through ambiguity and complexity
+• strong analytical skills and organizational skills
+
+what’s in it for you?
+• opportunity to learn and expand your skill set in data and technology, forge wonderful relationships and make your mark within the diverse and inclusive lightspeed family, a true canadian tech success story
+• join a recently created data team and help us move to the next level
+• amazing benefits & perks, including equity for all lightspeeders
+• constant development of both your data skill-set and business acumen with limitless growth opportunities
+
+what’s in it for you?
+
+come live the lightspeed experience...
+• ability to do your job in a truly flexible environment;
+• genuine career opportunities in a company that’s creating new jobs everyday;
+• work in a team big enough for growth but lean enough to make a real impact.
+
+… and enjoy a range of benefits that’ll keep you happy, healthy and (not) hungry:
+• lightspeed rsu program (we are all owners)
+• unlimited paid time off policy
+• flexible working policy
+• health insurance
+• health and wellness benefits
+• paid leave assistance for new parents
+• linkedin learning
+• volunteer days","['16 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6ImtXb1lUVG9zYXpJQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdUVCQ3FJQlFVRjBWbXhpUTFoQ1NIaE9Ua1JLZGtwS2NGWlRSSEJoYlhWbVlVaGhVMFpLWTNGQlpXRk1OVlo2TTFGRGFGbEVSVmxHZDA5QlVrTlNaMVJoTFdRNGRrdFBXVXN6Y0djMFJrdENiblZYWTA1WU5WaG1jRk55TW5sbVJscGZiVEJmYVVkeFJtcE9UbXRtZEU1NFVURXlNRTB6ZWpZd2JuVmFhWFV3WVV0d1JubElTMHBzU2xseVNqQjFlamwyVkd4WlkyTkpSakZrWVVKQmRsSTNWMDFYVWpaQkVoWnBVbVZMV1RVM1MwbEtUM0V4VVVoV2Mwd3lkME5SR2lKQlJGVjVSVWRsVVdSMk5HeFBObmRrTlZwT04weDFjamhMT0RselUxODJORmRuIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBXd3cuaW5nLmpvYnMiLCJsaW5rIjoiaHR0cHM6Ly93d3cuaW5nLmpvYnMvZ2xvYmFsLWVzL29mZXJ0YS9kYXRhLWFuYWx5c3QtMzQ4Lmh0bT9vcmc9c2VhcmNocmVzdWx0XHUwMDI2dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,1,1,0,1,1,2022-12-02
+Data Analyst,Hitachi Careers,"Madrid, Spain","comparative is the first tool to completely automate data analysis. in a single click, you can do what would take a team of data analysts weeks of work.
+
+our mission at comparative is to make the world data-driven by empowering every person, in every role, across all industries, to use data to make important decisions. our executive team includes a deep slate of experienced talent who built and scaled startups to 100x mm in revenue.
+
+as director, data and technology consulting, you will play a key role in leading and building our data consulting, analysis & customer solutions function. this is a unique opportunity to work directly with the executive team and have a significant impact on how we work with customers, from onboarding to technical discussions to data analysis. you will bridge the gap between technology and business teams to ensure the smooth delivery of customer projects.
+
+you will report directly to the ceo and lead three teams: data engineering, strategy and operations... and customer success that support analytical and technical conversations with our customers. you will manage our customer setup, onboarding and client management process. the primary purpose of the role is to ensure customers achieve success and have a best in class experience with comparative. you will act as an intermediary between the customer and engineering, product and data science, while simultaneously ensuring high customer adoption and satisfaction with comparative.
+
+🛠 you will
+
+1. support sales processes
+• create technical sales enablement materials
+• manage the process of mockup reports setup for prospects and for icps
+• serve as solutions architect and supporting sales team on closing deals
+
+2. lead customer onboarding and training
+• project manage the onboarding process of new customers and manage three teams: data engineering, strategy and operations and customer success. replace any of three elements if needed while onboarding customers
+• lead initial scoping and kick off calls to understand customers’ goals, set up timeline, identify use cases, analyze their data storage resources, gather requirements to set up scalable and replicable process
+• map out client’s bi needs for our new customers: user attributes, metrics, breakdowns, segments
+• map out the data collection strategy for new customers
+• manage the process of connecting to client’s data or third-party tools and setting up comparative dashboards
+• lead customer facing calls through the onboarding process and support customer success in ongoing client management and quarterly business reviews as needed
+• lead the process of improving our help center and knowledge base materials for current customers
+• achieve targets on customer satisfaction
+
+3. perform daily and weekly analysis
+• present weekly decks to clients and eventually train strategy and operations team to take over external customer data analysis
+• manage strategy and operations team and develop a deep understanding of customers’ business and key metrics for our icp industries with the goal of advising them on how best to satisfy their data business use cases with comparative that can be scaled and adapted for new customers
+• advise and manage strategy and operations team on the process of preparing analytics presentations for the customer meetings based on comparative reports to uncover “the why” behind changes in their business
+• advise and manage strategy and operations team on the investigation and collection of the right information in detail with the help of strategic thinking skills, and then assemble and visualize findings in a digestible way
+
+4. regularly improve and debug reports
+• develop deep understanding of data sources to understand how the customer is using the data
+• work directly with customers and manage data engineering team to research, troubleshoot, and resolve technical solutions/issues in a timely manner, and effectively escalating to data, product and engineering teams as required
+• collect, analyze and act on customer engagement data and set up the alerts system that will help effectively to manage teams involved in customer solutions function
+
+5. identify new opportunities and manage expansion into new teams with new reports
+• manage strategy and operations team in driving value for customers by identifying new attributes, metrics, breakdowns, and segments for dashboards
+• partner with customer success to achieve targets on renewals, expansion, and upsells
+
+👩💻 you have
+• proven track record working with senior customer leaders, including “c” level executives
+• experience as a data and technology consulting manager or lead: managing end to end technology delivery of projects from requirements through to implementation
+• fluent in english with strong experience delivering technical presentations to business and technical audiences
+• experience in forming and leading a highly effective team of technical and analytical resources
+• experience in implementing executive level dashboards
+• you are analytical. with your spectacular analytical reasoning and problem-solving skills you can complete meaningful data analysis: collect the right information and then assemble, visualize, and investigate the information in detail with the help of strategic thinking skills
+• you are technical. you are comfortable working with engineering leadership to prioritize customers’ requests and you are familiar with coding, programming, and developing as well as you have a comprehensive understanding of working with data and integrated tools
+• you are a team player. teamwork makes the dream work. fill gaps. there’s no such thing as “it’s not my job.” you relish working in a fast-paced, excellence-driven team and you are ready to broaden your horizons and help other team members
+• you have strong communication skills. you enjoy working with complex concepts and distilling them down so that anyone can understand them. you’re comfortable working cross functionally with stakeholders and can manage competing needs to drive alignment and resolution
+• you are a self-starter. don’t wait for permission. figure it out — or figure out who can. handle projects from start to finish. in other words, you’re comfortable on your own. this means you're organized, systematic, agile, detail-oriented, hardworking, and focused
+
+🏝 we provide
+• we're completely remote, and hiring primarily in canada and the us.
+• competitive base salary and stock option plan
+• we have full health insurance for both canadian and us residents.
+• we offer unlimited vacation
+• flexible hours - create your most productive work schedule
+
+comparative is an equal opportunity employer and makes all decisions without regard to age, national origin, race, ethnicity, religion, creed, gender, sexual orientation, disability status or any other characteristics protected by law.
+
+if you need accommodations during the interview process or on the job, please email hr@comparative.ai.
+
+we are also proud to be a work180 endorsed employer for women. work180 only endorses employers with a genuine commitment to supporting women at work. in order to become an endorsed employer for women, companies have to comply with strict criteria including equal pay, flexible working, equal opportunities and paid parental leave","['17 days ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJodGlkb2NpZCI6InZMUFJKMnhyZTBBQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFdllCQ3JjQlFVRjBWbXhpUW5ONmEwRk9iMUZNVGtsWk5sTlhXVGhoUlhoR1YwOVROMU5OTW5kc1JFbDBMVE5MWTNRdFFYTjNWbk52VGtKbWJsZElVSE52YVVGNlJqZFROVVpuTVc4elMwMDVhV1ZaWDBab2VWTjRWMlZ3WkZkMFVHVmpWMUpIYm5jMlkxWmljVEEwVWpkeE5XdHBOMTk0WTNWaExWSkJNV2R1UmxOdmExQk9iSHBxT0RBMFYySTViMW95YTNKMlpHMUZjVGhKT1dOUVVYZzRWelYyUldaaGRUVnJjamRtV0hsRlozRk1hV2xGVmw5M2NFRlpFaFpwVW1WTFdUVTNTMGxLVDNFeFVVaFdjMHd5ZDBOUkdpSkJSRlY1UlVkbVpGZzBPSFYzY0U5emNTMXhURkl6U2xGQmVIcE9XakJOYWxkbiIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEwIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIEhpdGFjaGkgLSBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5oaXRhY2hpLmNvbS9qb2JzLzExMTEwNDY0LWRhdGEtYW5hbHlzdD91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19,,0,0,1,0,0,2022-12-02
+Lead Data Analyst - Survey Operations & Analytics,Boston Consulting Group,"Leganés, Spain","data analyst
+
+life at samsung ads
+
+we are proud to build a world class organization that thrives on: collaborating closely, problem-solving, breaking new ground and adapting quickly to a rapidly evolving industry. we are looking for a long-term contract (18 months), data analyst!
+
+we offer a remote/hybrid work environment made easy for you with practical perks, commuting and lunch benefits.
+
+a competitive compensation package, including a performance based incentive plan
+• a very generous and broad ranged personal & healthcare spending program
+• 100% company-paid comprehensive health & dental coverage; you can choose the option(s) that best suits you
+• minimum 21 days of paid time off and so much more!
+• access to free learning and development opportunities
+• amazing discounts, tons of social activities and various other extras!
+• onboarding framework which ensures you’re set up for success from day 1
+• giving back program which includes donation matching & volunteering including a... paid volunteer day
+
+if you wish to know more about samsung ads, please visit our website.
+
+about this role:
+
+as a data analyst, you will not only possess strong technical abilities to retrieve, manipulate, analyze and visualize data, but also use your excellent communication skills to tell compelling data stories and effectively collaborate with stakeholders. do you thrive on asking “what if?”? if so, we’re looking for you to bring your abilities and attitude to distill complex subjects and data into compelling and understandable write-ups. this means developing ad-hoc queries/tooling, performing various investigations to answer business/technical/efficiency questions that may sit outside of the day-to-day scope of most product feature work.
+
+this is an exciting opportunity that sits at the intersection of product and engineering. you will help gather requirements by asking the right questions and answering them rigorously while working closely with product managers (pm) and other department leads to understand their goals and help achieve them through data.
+
+this role will be hybrid-based requiring a mix of working from our montreal qc office if in this location or surrounding areas or be remote-canada.
+
+responsibilities
+• synthesize raw data into actionable insights to drive business results, identify key trends and opportunities and report the findings in a simple, compelling manner; provide quantitative analysis and strategic insights to make smart, data-driven decisions.
+• design and maintain data systems and databases; this includes optimization of existing code and proactively identifying areas that require attention.
+• mining data from various sources, possibly reorganizing it in a format that can be easily read by either human or machine.
+• preparing reports to effectively communicate trends, patterns, and predictions using relevant data.
+• collaborate with pms and engineers; gather requirements, help identify opportunities for improvements based on data, conduct preliminary & exploratory analysis towards roadmap items and set alignment while managing expectations.
+• software development, using various apis, for ad-hoc reports, dashboards, projects, and process automations.
+
+requirements
+• minimum 4 years of relevant working experience as a data analyst (experience analyzing and manipulating data in various formats – plain text or binary, output streams, sql databases, big data warehouses such as hdfs/s3, kafka).
+• strong english communication skills (written, verbal and reading) with an ability to effectively establish relationships and collaborate with different teams; french is an asset.
+• demonstrated ability to be proactive and take initiative; unafraid to dig deeper if there is a blocker.
+• advanced sql skills, ability to perform complex query and analysis of data from multiple sources.
+• experience doing data extraction, transformation, and reporting with python.
+• ability to work autonomously, multi-task and in a fast-paced environment with a strong attention to detail.
+
+diversity and inclusion
+
+samsung ads is committed to working with the best and brightest people from the broadest talent pool possible. we believe a diversity of ideas fosters innovation and engagement, and allows us to attract the best people, and to develop the best products, services and solutions. all qualified individuals are encouraged to apply. if you need assistance, or have any questions during the application and recruiting process, please contact us at: inclusion.ca@samsung.com","['15 hours ago', 'Full-time']",eyJqb2JfdGl0bGUiOiJMZWFkIERhdGEgQW5hbHlzdCAtIFN1cnZleSBPcGVyYXRpb25zIFx1MDAyNiBBbmFseXRpY3MiLCJodGlkb2NpZCI6IjlJSDJVMUxKdTVJQUFBQUFBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0laUTI5dGJYVnVhWFI1SUc5bUlFMWhaSEpwWkN4VGNHRnBiZyIsImdsIjoidXMiLCJobCI6ImVuIiwiZmMiOiJFcllDQ3ZjQlFVRjBWbXhpUWxWMmJXOVNTVGh0V1VweGFXbExVVk15VUZaQk1XSXhSakJsZGpGUWVIQTVYek5PV21KRGNWQjRhRTR5ZDNObVNXNUROSEpFZWpnd1JXeEtXVUl5ZVZSSFJIRnZjV2xNYVU5a1VYbDJlRzVCVlhZeWVsaHliVFo2WW5aVFZVOVhRVzAxVERCNVNUWTVaV2h5WkRoaFVFcG9iV2xCVjFaQldHUkRabVF5YjNrNVNWTlliMjF3Y1haUk9EQnVTazB5V1MwNFgxUllUWFJOZERseWJtOUJZVTVtUmpKc1dHbzJTamxhVnpZeFIzaHZPVkJQV2tSNVFWRlNkM0J5V1RSa1RtZ3dkV0ZqVTJWWFJEUjJRV2RZVEhGSFdXOXZhV0ZYTW1rd2JXVjJPRFZLUVhwR1FYTnpWVXRITlhFek5uWnpjeElXYVZKbFMxazFOMHRKU2s5eE1WRklWbk5NTW5kRFVSb2lRVVJWZVVWSFkxWkljRVZ2WmsxbFowWnVkbTU1WlZKaVlYVlhSbVpvVDBOaGR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTUiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUmVjcnVpdC5uZXQiLCJsaW5rIjoiaHR0cHM6Ly93d3cucmVjcnVpdC5uZXQvam9iL2RhdGEtYW5hbHlzdC1qb2JzLzk5MUVGNzFFQkI0RDY4Qjg/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ==,,1,1,1,0,0,2022-12-02
